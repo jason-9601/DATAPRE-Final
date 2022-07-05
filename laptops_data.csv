@@ -1,0 +1,2147 @@
+brand,model,processor,ram,memory,os,display_size,price,star_rating,ratings
+Lenovo,A6-9225,AMD A6-9225 Processor,4GB,1024GB HDD,Windows,Missing,324.87,3.7,63
+Lenovo,Ideapad,AMD APU Dual,4GB,512GB HDD,Windows,Missing,254.67,3.6,1894
+Avita,PURA,AMD APU Dual,4GB,128GB SSD,Windows,Missing,259.87,3.7,1153
+Avita,PURA,AMD APU Dual,4GB,128GB SSD,Windows,Missing,279.37,3.7,1153
+Avita,PURA,AMD APU Dual,4GB,256GB SSD,Windows,Missing,324.87,3.7,1657
+Avita,PURA,AMD APU Dual,8GB,256GB SSD,Windows,14,324.87,3.7,1657
+Hp,APU,AMD APU Dual,4GB,1024GB HDD,Windows,14,271.7,3.9,1185
+Lenovo,APU,AMD APU Dual,4GB,1024GB HDD,Windows,Missing,284.64799999999997,3.9,219
+Hp,Athlon,AMD Athlon Dual,32GB,32GB SSD,Windows,14,349.687,0.0,0
+Acer,Aspire,AMD Athlon Dual,4GB,256GB SSD,Windows,Missing,415.87,4.2,76
+Asus,ExpertBook,Intel Core i3,4GB,1024GB HDD,Windows,15.6,450.43699999999995,2.3,3
+Lenovo,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,506.98699999999997,3.8,65
+Lenovo,v15,Intel Core i3,4GB,1024GB HDD,Windows,15.6,519.987,3.1,8
+Asus,ExpertBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,909.87,0.0,0
+Asus,VivoBook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,350.87,0.0,0
+Asus,EeeBook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,298.87,0.0,0
+Asus,EeeBook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,285.87,3.5,31
+Asus,ExpertBook,Intel Core i5,8GB,1024GB HDD,Windows,14,764.387,0.0,0
+Lenovo,Missing,Intel Core i5,4GB,1024GB HDD,Windows,14,649.987,0.0,0
+Acer,Aspire,AMD Ryzen,4GB,512GB HDD,Windows,Missing,714.87,4.5,3190
+Acer,Nitro,AMD Ryzen 5,4GB,512GB HDD,Windows,Missing,779.87,4.5,1946
+Acer,Nitro,AMD Ryzen 5,4GB,512GB HDD,Windows,Missing,1218.1,4.5,259
+Acer,Nitro,AMD Ryzen 5,4GB,512GB HDD,Windows,Missing,948.87,4.5,425
+Avita,Cosmos,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,227.36999999999998,3.6,1120
+Asus,ExpertBook,Intel Core i3,4GB,256GB SSD,Windows,Missing,467.87,0.0,0
+Hp,x360,Intel Core i3,8GB,256GB SSD,Windows,14,734.37,0.0,0
+Hp,x360,Intel Core i5,8GB,256GB SSD,Windows,14,850.0699999999999,0.0,0
+Lenovo,IdeaPad,Intel Celeron Dual,4GB,256GB SSD,Windows,14,415.98699999999997,4.0,286
+Hp,Celeron,Intel Celeron Dual,8GB,256GB SSD,Windows,14,422.37,4.0,58
+Lenovo,IdeaPad,Intel Celeron Dual,4GB,256GB SSD,Windows,Missing,413.387,0.0,0
+Asus,VivoBook,Intel Celeron Dual,4GB,256GB SSD,Windows,Missing,388.57,4.0,7
+Asus,Celeron,Intel Celeron Dual,4GB,1024GB HDD,Windows,15.6,311.87,3.8,15279
+Hp,15q,Intel Core i3,4GB,1024GB HDD,Windows,15.6,428.41499999999996,4.2,311
+Hp,250-G6,Intel Core i5,4GB,1024GB HDD,Windows,15.6,600.6,4.2,47
+Asus,Missing,Intel Core i3,4GB,256GB SSD,Windows,14,447.577,4.1,37
+Lenovo,IdeaPad,Intel Core i3,8GB,256GB SSD,Windows,15.6,493.87,4.3,2080
+Asus,VivoBook,Intel Core i3,4GB,256GB SSD,Windows,15.6,467.87,4.3,1479
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,14,441.73999999999995,4.4,67
+Hp,Missing,Intel Core i3,8GB,256GB SSD,Windows,14,519.87,4.2,273
+Dell,Vostro,Intel Core i3,8GB,256GB SSD,Windows,14,513.37,4.3,1267
+Redmibook,15,Intel Core i3,8GB,256GB SSD,Windows,15.6,506.87,4.3,1063
+Hp,Pavilion,Intel Core i3,8GB,256GB SSD,Windows,14,701.87,4.6,14
+Acer,Aspire,Intel Core i3,8GB,256GB SSD,Windows,15.6,506.87,0.0,0
+Realme,Book,Intel Core i3,8GB,256GB SSD,Windows,14,610.87,4.4,6352
+Asus,Missing,Intel Core i3,8GB,256GB SSD,Windows,15.6,493.87,4.3,284
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,14,492.57,4.6,44
+Lenovo,IdeaPad,Intel Core i3,8GB,256GB SSD,Windows,14,506.87,4.2,33
+Lenovo,IdeaPad,Intel Core i3,8GB,256GB SSD,Windows,14,493.87,4.2,286
+Dell,Vostro,Intel Core i3,8GB,256GB SSD,Windows,14.96,545.87,3.6,10
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,15.6,597.87,4.5,816
+Lenovo,IdeaPad,Intel Core i3,8GB,256GB SSD,Windows,15.6,519.87,4.3,543
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD,Windows,15.6,552.37,4.8,9
+Infinix,INBook,Intel Core i3,8GB,256GB SSD,Windows,14,428.87,4.3,1221
+Dell,Vostro,Intel Core i3,4GB,256GB SSD,Windows,14,480.87,4.3,1178
+Lenovo,Ideapad,Intel Core i3,8GB,256GB SSD,Windows,14,701.87,4.4,299
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,14,480.87,4.4,20
+Lenovo,IdeaPad,Intel Core i3,4GB,256GB SSD,Windows,15.6,506.21999999999997,4.3,758
+Dell,Inspiron,Intel Core i3,4GB,256GB SSD,Windows,15,513.37,4.4,634
+Lenovo,Ideapad,Intel Core i3,8GB,256GB SSD,Windows,15.6,519.987,5.0,4
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD,Windows,15.6,558.87,4.3,17
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD,Windows,14,649.87,4.2,24
+Dell,Vostro,Intel Core i3,8GB,256GB SSD,Windows,14,539.37,4.3,1753
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD,Windows,14.96,545.87,4.2,216
+Lenovo,Ideapad,Intel Core i3,8GB,256GB SSD,Windows,14,545.87,4.4,1084
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,15.6,500.37,3.8,19
+Lenovo,Missing,Intel Core i3,4GB,256GB SSD,Windows,15,506.87,4.4,106
+Lenovo,ThinkPad,Intel Core i3,4GB,256GB SSD,Windows,15.6,584.87,4.1,42
+Lenovo,IdeaPad,Intel Core i3,4GB,256GB SSD,Windows,14,474.37,0.0,0
+Lenovo,Missing,Intel Core i3,8GB,256GB SSD,Windows,15.6,506.60999999999996,0.0,0
+Hp,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,583.6999999999999,4.2,1029
+Msi,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,506.87,4.5,53
+Dell,Vostro,Intel Core i3,4GB,256GB SSD,Windows,Missing,577.5509999999999,0.0,0
+Asus,VivoBook,Intel Core i3,4GB,256GB SSD,Windows,Missing,467.87,0.0,0
+Lenovo,Ideapad,Intel Core i3,4GB,256GB SSD,Windows,Missing,522.6,3.9,48
+Lenovo,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,532.87,3.7,3
+Dell,Inspiron,Intel Core i3,4GB,256GB SSD,Windows,Missing,552.37,0.0,0
+Realme,Book,Intel Core i3,4GB,256GB SSD,Windows,Missing,623.987,4.4,6352
+Acer,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,311.87,3.3,61
+Dell,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,935.987,4.3,97
+Asus,VivoBook,Intel Core i3,4GB,256GB SSD,Windows,Missing,519.87,4.4,181
+Lenovo,IdeaPad,Intel Core i3,4GB,256GB SSD,Windows,Missing,545.9739999999999,4.4,529
+Asus,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,545.87,0.0,0
+Lenovo,Ideapad,Intel Core i3,4GB,256GB SSD,Windows,Missing,519.987,0.0,0
+Asus,Commercial,Intel Core i3,4GB,256GB SSD,Windows,Missing,519.87,0.0,0
+Lenovo,Ideapad,Intel Core i3,4GB,256GB SSD,Windows,Missing,519.9739999999999,4.2,10
+Hp,14s,Intel Core i3,4GB,256GB SSD,Windows,Missing,552.37,4.4,5205
+Lenovo,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,545.87,3.7,3
+Asus,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,630.37,0.0,0
+Hp,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,576.8879999999999,4.2,1090
+Dell,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,570.6999999999999,0.0,0
+Dell,INSPIRON,Intel Core i3,4GB,256GB SSD,Windows,Missing,606.97,0.0,0
+Lenovo,Missing,Intel Core i3,4GB,256GB SSD,Windows,Missing,532.87,5.0,1
+Dell,Inspiron,Intel Core i3,4GB,256GB SSD,Windows,Missing,519.87,4.0,44
+Lenovo,V15,Intel Core i3,4GB,256GB SSD,Windows,Missing,571.87,0.0,0
+Asus,VivoBook,Intel Core i3,4GB,256GB SSD,Windows,Missing,480.87,4.5,70
+Dell,Missing,Intel Core i3,8GB,256GB SSD,Windows,15.6,630.5,0.0,0
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD,Windows,15.6,636.87,0.0,0
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,305.37,4.2,632
+Hp,Pavilion,Intel Core i3,4GB,256GB SSD,Windows,14,705.0939999999999,4.4,71
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,15.6,493.87,4.3,990
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,558.87,4.4,158
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,558.87,4.3,681
+Asus,VivoBook,Intel Core i3,4GB,512GB SSD,Windows,15.6,467.87,4.4,130
+Redmibook,15,Intel Core i3,8GB,512GB SSD,Windows,15.6,558.87,4.3,1063
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14,558.87,4.3,30
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14,675.87,4.7,6
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,15.6,636.87,4.5,174
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14,558.87,4.5,40
+Lenovo,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,506.87,3.9,13
+Dell,Inspiron,Intel Core i3,8GB,512GB SSD,Windows,14.96,597.87,4.3,184
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,552.37,4.3,1296
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,571.61,4.3,571
+Asus,Missing,Intel Core i3,4GB,512GB SSD,Windows,15.6,519.87,4.3,2551
+Msi,Missing,Intel Core i3,8GB,512GB SSD,Windows,14,636.87,4.5,17
+Hp,Pavilion,Intel Core i3,8GB,512GB SSD,Windows,14,714.87,4.5,35
+Msi,Missing,Intel Core i3,8GB,512GB SSD,Windows,14,532.87,4.4,118
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14.1,545.87,0.0,0
+Lenovo,IdeaPad,Intel Core i3,8GB,512GB SSD,Windows,14,714.87,4.5,245
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14,584.87,4.4,2058
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,536.25,4.1,117
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,14,584.87,0.0,0
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14,558.87,4.7,74
+Dell,Missing,Intel Core i3,8GB,512GB SSD,Windows,14,790.27,4.4,10
+Hp,Missing,Intel Core i3,8GB,512GB SSD,Windows,15.6,593.4499999999999,4.1,39
+Dell,Vostro,Intel Core i3,8GB,512GB SSD,Windows,14,545.87,3.9,29
+Dell,Inspiron,Intel Core i3,8GB,512GB SSD,Windows,15.6,591.37,4.2,43
+Asus,VivoBook,Intel Core i3,8GB,512GB SSD,Windows,14.1,584.87,0.0,0
+Lenovo,IdeaPad,Intel Core i3,8GB,512GB SSD,Windows,15.6,558.87,4.4,984
+Hp,15s,Intel Core i3,4GB,512GB SSD,Windows,Missing,591.37,4.3,523
+Hp,Missing,Intel Core i3,4GB,512GB SSD,Windows,Missing,504.387,4.4,30
+Hp,Pavilion,Intel Core i3,4GB,512GB SSD,Windows,Missing,900.471,0.0,0
+Asus,VivoBook,Intel Core i3,4GB,512GB SSD,Windows,Missing,671.437,0.0,0
+Hp,Missing,Intel Core i3,4GB,512GB SSD,Windows,Missing,623.87,4.3,1605
+Asus,VivoBook,Intel Core i3,4GB,512GB SSD,Windows,Missing,532.87,4.4,4008
+Asus,Missing,Intel Core i3,4GB,512GB SSD,Windows,Missing,558.87,4.4,1869
+Asus,VivoBook,Intel Core i3,4GB,512GB SSD,Windows,Missing,583.5699999999999,3.9,7
+Asus,VivoBook,Intel Core i3,4GB,512GB SSD,Windows,Missing,539.37,4.4,4008
+Hp,15s,Intel Core i3,4GB,512GB SSD,Windows,Missing,662.87,0.0,0
+Hp,Missing,Intel Core i3,4GB,512GB SSD,Windows,Missing,635.6999999999999,4.3,1278
+Dell,Vostro,Intel Core i3,4GB,512GB SSD,Windows,Missing,543.27,0.0,0
+Lenovo,Ideapad,Intel Core i3,4GB,512GB SSD,Windows,Missing,753.987,3.4,10
+Dell,Inspiron,Intel Core i3,8GB,512GB SSD,Windows,15.6,597.0899999999999,0.0,0
+Hp,Pavilion,Intel Core i3,8GB,512GB SSD,Windows,14,721.37,4.3,143
+Asus,VivoBook,Intel Core i3,8GB,1024GB HDD,Windows,14.1,427.57,3.9,28
+Lenovo,IdeaPad,Intel Core i3,8GB,1024GB HDD,Windows,15.6,467.87,4.0,2124
+Dell,Inspiron,Intel Core i3,8GB,1024GB HDD,Windows,15.6,552.37,4.0,276
+Dell,Vostro,Intel Core i3,8GB,1024GB HDD,Windows,14,548.47,3.9,250
+Dell,Vostro,Intel Core i3,8GB,1024GB HDD,Windows,14,513.37,4.0,1917
+Hp,15s,Intel Core i3,8GB,1024GB HDD,Windows,15.6,567.97,4.1,4999
+Asus,VivoBook,Intel Core i3,4GB,1024GB HDD,Windows,15.6,467.87,3.8,17
+Dell,3000,Intel Core i3,8GB,1024GB HDD,Windows,15.6,569.4,4.2,17
+Lenovo,Missing,Intel Core i3,8GB,1024GB HDD,Windows,15.6,506.87,0.0,0
+Asus,VivoBook,Intel Core i3,4GB,1024GB HDD,Windows,15.6,454.87,3.7,4203
+Asus,VivoBook,Intel Core i3,8GB,1024GB HDD,Windows,15.6,505.7,3.9,13
+Dell,Inspiron,Intel Core i3,4GB,1024GB HDD,Windows,Missing,519.87,3.8,15
+Dell,INSPIRON,Intel Core i3,4GB,1024GB HDD,Windows,Missing,531.5699999999999,4.0,527
+Lenovo,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,480.87,3.7,103
+Hp,15s,Intel Core i3,4GB,1024GB HDD,Windows,Missing,519.87,3.9,324
+Hp,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,545.87,4.0,69
+Dell,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,571.61,3.9,16
+Hp,Notebook,Intel Core i3,4GB,1024GB HDD,Windows,Missing,517.27,3.9,40
+Asus,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,462.66999999999996,3.4,12
+Hp,14s,Intel Core i3,4GB,1024GB HDD,Windows,Missing,474.37,3.8,1146
+Asus,VivoBook,Intel Core i3,4GB,1024GB HDD,Windows,Missing,506.87,4.0,1850
+Asus,Missing,Intel Core i3,4GB,1024GB HDD,Windows,Missing,441.87,3.7,43
+Dell,Inspiron,Intel Core i3,4GB,1024GB HDD,Windows,Missing,564.1999999999999,4.1,231
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,324.87,4.2,502
+Hp,15s,Intel Core i3,4GB,1024GB HDD,Windows,Missing,529.75,4.1,1096
+Dell,Inspiron,Intel Core i3,4GB,1024GB HDD,Windows,Missing,559.0,4.1,313
+Asus,Vivo,Intel Core i3,4GB,1024GB HDD,Windows,Missing,494.0,4.7,7
+Dell,Inspiron,Intel Core i3,8GB,1024GB HDD,Windows,14.96,493.87,3.7,265
+Hp,DA,Intel Core i3,8GB,1024GB HDD,Windows,15.6,640.627,4.5,38
+Lenovo,Missing,Intel Core i3,8GB,1024GB HDD,Windows,15.6,506.98699999999997,3.6,7
+Asus,Missing,Intel Core i3,8GB,1024GB HDD,Windows,15.6,539.5,3.0,4
+Acer,Missing,Intel Core i3,4GB,1024GB HDD,Windows,15.6,480.98699999999997,0.0,0
+Dell,Missing,Intel Core i3,8GB,1024GB HDD,Windows,15.6,557.6999999999999,0.0,0
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,279.37,3.9,818
+Dell,Insprion,Intel Core i3,8GB,1024GB HDD,Windows,15.6,539.24,3.8,25
+Asus,VivoBook,Intel Core i3,8GB,1024GB HDD,Windows,15.6,428.87,2.0,12
+Asus,VivoBook,Intel Core i3,8GB,1024GB HDD,Windows,15.6,502.84,3.2,17
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,311.87,4.1,974
+Dell,Missing,Intel Core i3,8GB,1024GB HDD,Windows,14.96,525.0699999999999,3.2,83
+Asus,VivoBook,Intel Core i3,4GB,1024GB HDD,Windows,14.1,441.87,3.4,31
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,266.37,3.9,637
+Dell,Vostro,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,539.37,5.0,7
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,591.37,4.3,207
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,578.37,4.3,844
+Asus,VivoBook,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,14.1,544.5699999999999,4.2,53
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,14,558.87,4.1,62
+Acer,Travelmate,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,14,532.87,4.2,38
+Dell,Inspiron,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,636.87,4.1,724
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,566.67,0.0,0
+Dell,Inspiron,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,580.97,4.3,9
+Asus,ExpertBook,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,532.87,0.0,0
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,571.87,0.0,0
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,538.0699999999999,4.2,56
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,575.77,0.0,0
+Dell,Inspiron,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,636.987,0.0,0
+Dell,Vostro,Intel Core i3,4GB,256GB SSD + 1024GB HDD,Windows,Missing,519.87,3.9,170
+Dell,Missing,Intel Core i3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,603.0699999999999,2.9,95
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,246.86999999999998,3.6,197
+Asus,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,233.86999999999998,3.6,1180
+Hp,14a,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,344.10999999999996,3.6,232
+Hp,Chromebook,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,363.87,3.8,596
+Lenovo,Celeron,Intel Celeron Dual,4GB,1024GB HDD,Windows,15.6,389.98699999999997,3.3,19
+Lenovo,IdeaPad,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,337.87,3.7,84
+Lenovo,IdeaPad,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,220.86999999999998,3.4,414
+Lenovo,IdeaPad,Intel Celeron Dual,4GB,512GB HDD,Windows,Missing,324.87,2.8,70
+Acer,Predator,Intel Core,4GB,512GB HDD,Windows,Missing,1299.87,4.5,1336
+Acer,Aspire,Intel Core i5,8GB,512GB HDD,Windows,Missing,662.87,4.4,10966
+Acer,Spin,Intel Core i5,8GB,512GB HDD,Windows,Missing,1559.87,4.0,1
+Acer,Swift,Intel Core i5,8GB,512GB HDD,DOS,Missing,1224.47,4.3,31
+Asus,ROG,Intel Core i5,8GB,512GB HDD,DOS,Missing,1380.171,4.5,1881
+Dell,Missing,Intel Core i5,8GB,512GB HDD,DOS,Missing,885.17,1.6,23
+Dell,XPS,Intel Core i5,8GB,512GB HDD,DOS,Missing,1819.87,0.0,0
+Hp,15s,Intel Core i5,8GB,512GB HDD,DOS,Missing,727.87,4.0,818
+Hp,Omen,Intel Core i5,8GB,512GB HDD,DOS,Missing,1333.163,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,512GB HDD,DOS,Missing,948.87,4.2,204
+Lenovo,Ideapad,Intel Core i5,8GB,512GB HDD,DOS,Missing,610.87,4.2,4428
+Microsoft,Surface,Intel Core i5,8GB,128GB SSD,Windows,Missing,1302.47,4.4,56
+Smartron,t.book,Intel Core i5,8GB,128GB SSD,Windows,Missing,688.87,3.5,30
+Microsoft,Surface,Intel Core i5,8GB,128GB SSD,Windows,Missing,1195.9869999999999,4.5,49
+Smartron,t.book,Intel Core i5,4GB,128GB SSD,Windows,12.2,688.87,3.9,28
+Hp,Pavilion,Intel Core i5,8GB,128GB SSD,Windows,13.3,988.156,4.3,129
+Lenovo,Ideapad,Intel Core i5,8GB,256GB SSD,Windows,15.6,643.37,4.3,365
+Lenovo,Yoga,Intel Core i5,8GB,512GB HDD,DOS,Missing,1338.87,4.6,79
+Acer,Swift,Intel Core i5,8GB,256GB SSD,Windows,Missing,1129.271,4.4,39
+Lg,Gram,Intel Core i5,8GB,256GB SSD,Windows,Missing,1000.87,4.5,15
+Lg,Gram,Intel Core i5,8GB,256GB SSD,Windows,Missing,1000.87,0.0,0
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD,Windows,Missing,636.87,0.0,0
+Lg,Gram,Intel Core i5,8GB,256GB SSD,Windows,Missing,818.87,4.6,68
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD,Windows,Missing,727.87,3.3,3
+Acer,Swift,Intel Core i5,8GB,256GB SSD,Windows,Missing,1065.974,4.0,14
+Hp,Spectre,Intel Core i5,8GB,256GB SSD,Windows,Missing,1775.6699999999998,0.0,0
+Acer,Swift,Intel Core i5,8GB,256GB SSD,Windows,13.3,773.37,3.5,33
+Asus,VivoBook14,Intel Core i5,8GB,256GB SSD,Windows,14.1,647.4,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,256GB SSD,Windows,15.6,805.987,2.8,4
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,714.87,4.2,116
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,701.87,4.1,206
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,14,688.87,4.2,300
+Hp,Pavilion,Intel Core i5,16GB,512GB SSD,Windows,14,883.87,4.5,108
+Asus,TUF,Intel Core i5,8GB,512GB SSD,Windows,15.6,753.87,4.5,3712
+Lenovo,Ideapad,Intel Core i5,16GB,512GB SSD,Windows,15.6,809.9,4.4,825
+Realme,Book(Slim),Intel Core i5,8GB,512GB SSD,Windows,14,688.87,4.4,3470
+Lenovo,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,688.87,0.0,0
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,675.87,4.2,85
+Lenovo,IdeaPad,Intel Core i5,16GB,512GB SSD,Windows,14,805.87,4.2,56
+Redmibook,Pro,Intel Core i5,8GB,512GB SSD,Windows,15.6,636.87,4.2,1708
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,14,831.87,4.6,10
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,857.87,4.6,17
+Nokia,PureBook,Intel Core i5,8GB,512GB SSD,Windows,14,623.87,4.4,1119
+Acer,Aspire,Intel Core i5,8GB,512GB SSD,Windows,15.6,688.87,4.2,155
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,649.87,0.0,0
+Asus,ASUS,Intel Core i5,8GB,512GB SSD,Windows,17.3,935.87,4.4,91
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,15.6,623.87,4.0,35
+Nokia,PureBook,Intel Core i5,8GB,512GB SSD,Windows,14,597.87,4.7,6
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,630.37,4.3,126
+Asus,ASUS,Intel Core i5,8GB,512GB SSD,Windows,17.3,948.87,4.5,74
+Msi,Katana,Intel Core i5,16GB,512GB SSD,Windows,15.6,1000.87,4.6,75
+Asus,TUF,Intel Core i5,16GB,512GB SSD,Windows,15.6,1169.87,4.6,124
+Msi,GF63,Intel Core i5,8GB,512GB SSD,Windows,15.6,779.87,4.5,1597
+Asus,TUF,Intel Core i5,8GB,512GB SSD,Windows,15.6,857.87,4.4,3850
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,14,935.87,4.7,7
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,14,934.5699999999999,4.3,3
+Lenovo,IdeaPad,Intel Core i5,16GB,512GB SSD,Windows,15.6,844.87,0.0,0
+Asus,VivoBook,Intel Core i5,16GB,512GB SSD,Windows,14,857.87,0.0,0
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,727.987,4.8,5
+Asus,VivoBook,Intel Core i5,16GB,512GB SSD,Windows,14,955.37,4.5,213
+Hp,Pavilion,Intel Core i5,16GB,512GB SSD,Windows,14,968.37,4.3,10
+Hp,Pavilion,Intel Core i5,8GB,512GB SSD,Windows,14,758.42,4.0,69
+Acer,Aspire,Intel Core i5,8GB,512GB SSD,Windows,14,727.987,4.5,6
+Dell,Inspiron,Intel Core i5,16GB,512GB SSD,Windows,14,883.87,4.4,93
+Asus,VivoBook,Intel Core i5,16GB,512GB SSD,Windows,14,779.87,4.5,11
+Asus,TUF,Intel Core i5,16GB,512GB SSD,Windows,15.6,1078.87,4.4,262
+Dell,Vostro,Intel Core i5,8GB,512GB SSD,Windows,14,834.4699999999999,0.0,0
+Dell,Missing,Intel Core i5,16GB,512GB SSD,Windows,14,911.17,4.0,5
+Realme,Book(Slim),Intel Core i5,8GB,512GB SSD,Windows,14,792.987,4.4,3470
+Asus,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,649.87,4.1,45
+Msi,Missing,Intel Core i5,8GB,512GB SSD,Windows,14,721.37,3.9,8
+Hp,Spectre,Intel Core i5,8GB,512GB SSD,Windows,13.3,1273.87,5.0,3
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,15.6,714.87,4.4,1681
+Lenovo,Thinkbook,Intel Core i5,8GB,512GB SSD,Windows,15,779.87,4.3,37
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,701.87,4.2,61
+Hp,Pavilion,Intel Core i5,16GB,512GB SSD,Windows,14,870.987,4.4,17
+Acer,Intel,Intel Core i5,8GB,512GB SSD,Windows,14,792.87,4.4,17
+Asus,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,623.87,4.3,1625
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,14,779.987,4.0,4
+Dell,G15,Intel Core i5,16GB,512GB SSD,Windows,15.6,1039.87,0.0,0
+Asus,TUF,Intel Core i5,8GB,512GB SSD,Windows,15.6,831.87,0.0,0
+Hp,Pavilion,Intel Core i5,8GB,512GB SSD,Windows,15.6,831.87,4.7,17
+Asus,VivoBook,Intel Core i5,16GB,512GB SSD,Windows,14,779.87,0.0,0
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,14,727.87,0.0,0
+Hp,Pavilion,Intel Core i5,8GB,512GB SSD,Windows,15.6,831.87,4.7,3
+Dell,Vostro,Intel Core i5,16GB,512GB SSD,Windows,14,903.37,0.0,0
+Dell,Inspiron,Intel Core i5,16GB,512GB SSD,Windows,14,1162.07,0.0,0
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,13.3,974.87,0.0,0
+Lenovo,Thinkbook,Intel Core i5,8GB,512GB SSD,Windows,14,844.87,4.0,48
+Lenovo,Legion,Intel Core i5,8GB,512GB SSD,Windows,15.6,864.37,4.4,282
+Dell,Inspiron,Intel Core i5,16GB,512GB SSD,Windows,15.6,1166.126,0.0,0
+Lenovo,Ideapad,Intel Core i5,16GB,512GB SSD,Windows,15.6,922.87,4.2,67
+Infinix,INBook,Intel Core i5,8GB,512GB SSD,Windows,14,552.37,4.1,383
+Asus,VivoBook,Intel Core i5,16GB,512GB SSD,Windows,17.3,766.87,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,15.6,747.5,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,14,1039.87,4.6,23
+Msi,Modern,Intel Core i5,8GB,512GB SSD,Windows,14,735.033,4.4,677
+Asus,Missing,Intel Core i5,16GB,512GB SSD,Windows,17.3,779.87,3.3,3
+Lenovo,ThinkBook,Intel Core i5,16GB,512GB SSD,Windows,13,844.87,4.4,46
+Dell,Missing,Intel Core i5,8GB,512GB SSD,Windows,14,796.77,3.0,4
+Lenovo,Missing,Intel Core i5,8GB,512GB SSD,Windows,14,714.87,4.2,9
+Lenovo,ThinkBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,779.87,4.4,26
+Asus,ASUS,Intel Core i5,8GB,512GB SSD,Windows,16,1104.87,5.0,5
+Hp,Pavilion,Intel Core i5,8GB,512GB SSD,Windows,16,942.5,4.4,40
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,779.87,3.9,44
+Lenovo,Yoga,Intel Core i5,8GB,512GB SSD,Windows,16,1143.87,4.7,28
+Hp,14s,Intel Core i5,8GB,512GB SSD,Windows,Missing,753.87,4.3,1541
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,903.37,4.2,72
+Lenovo,Thinkbook,Intel Core i5,8GB,512GB SSD,Windows,16,896.87,4.6,44
+Lenovo,Missing,Intel Core i5,8GB,512GB SSD,Windows,16,1013.87,4.3,17
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,16,1377.87,4.4,59
+Msi,Prestige,Intel Core i5,8GB,512GB SSD,Windows,16,1039.87,0.0,0
+Dell,Vostro,Intel Core i5,8GB,512GB SSD,Windows,Missing,721.37,4.1,337
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,16,909.87,4.6,10
+Asus,Zenbook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1104.87,4.2,10
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,779.87,3.8,31
+Dell,XPS,Intel Core i5,8GB,512GB SSD,Windows,Missing,1454.57,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,857.87,4.3,10
+Asus,Zenbook,Intel Core i5,8GB,512GB SSD,Windows,Missing,948.87,4.7,76
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,924.17,4.1,44
+Msi,Katana,Intel Core i5,8GB,512GB SSD,Windows,Missing,974.87,0.0,0
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1039.87,4.4,11
+Msi,Modern,Intel Core i5,8GB,512GB SSD,Windows,Missing,721.37,4.3,138
+Dell,Vostro,Intel Core i5,8GB,512GB SSD,Windows,Missing,864.37,4.1,199
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,694.1999999999999,4.1,46
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,968.5,4.4,45
+Dell,XPS,Intel Core i5,8GB,512GB SSD,Windows,16,1494.87,0.0,0
+Dell,Vostro,Intel Core i5,8GB,512GB SSD,Windows,Missing,805.87,4.1,35
+Apple,MacBook,Intel Core i5,8GB,512GB SSD,Mac,16,2079.87,4.4,32
+Apple,MacBook,Intel Core i5,8GB,512GB SSD,Mac,Missing,2237.17,4.2,108
+Msi,Sword,Intel Core i5,8GB,512GB SSD,Windows,Missing,974.87,0.0,0
+Msi,Modern,Intel Core i5,8GB,512GB SSD,Windows,Missing,734.37,4.5,814
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD,Windows,16,1911.0,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,Missing,727.87,4.2,75
+Hp,Pavilion,Intel Core i5,8GB,512GB SSD,Windows,Missing,1013.87,0.0,0
+Hp,Envy,Intel Core i5,8GB,512GB SSD,Windows,16,1384.37,4.7,3
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,16,922.87,4.6,11
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,844.87,4.4,125
+Acer,Aspire,Intel Core i5,8GB,512GB SSD,Windows,Missing,753.87,0.0,0
+Asus,TUF,Intel Core i5,8GB,512GB SSD,Windows,Missing,844.87,4.5,4
+Msi,Modern,Intel Core i5,8GB,512GB SSD,Windows,Missing,714.87,4.4,714
+Vaio,SE,Intel Core i5,8GB,512GB SSD,Windows,Missing,817.5699999999999,4.0,85
+Hp,Spectre,Intel Core i5,8GB,512GB SSD,Windows,16,1455.9869999999999,0.0,0
+Lenovo,Yoga,Intel Core i5,8GB,512GB SSD,Windows,Missing,920.3739999999999,4.0,21
+Lenovo,Legion,Intel Core i5,8GB,512GB SSD,Windows,Missing,779.87,3.8,9
+Acer,ConceptD,Intel Core i5,8GB,512GB SSD,Windows,Missing,1293.5,0.0,0
+Hp,14s,Intel Core i5,8GB,512GB SSD,Windows,Missing,727.87,4.2,30
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,948.87,4.2,44
+Acer,Swift,Intel Core i5,8GB,512GB SSD,Windows,Missing,844.87,3.8,4
+Asus,Missing,Intel Core i5,8GB,512GB SSD,Windows,Missing,753.87,0.0,0
+Hp,HP,Intel Core i5,8GB,512GB SSD,Windows,16,1000.87,4.4,14
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,Missing,818.9739999999999,4.3,739
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,1013.87,4.5,31
+Hp,Spectre,Intel Core i5,8GB,512GB SSD,Windows,Missing,1494.87,4.4,145
+Dell,DELL,Intel Core i5,8GB,512GB SSD,Windows,Missing,857.87,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,1156.87,3.8,19
+Lenovo,X390,Intel Core i5,8GB,512GB SSD,Windows,Missing,1476.6699999999998,0.0,0
+Mi,Notebook,Intel Core i5,8GB,512GB SSD,Windows,Missing,714.87,4.3,545
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,961.87,4.2,32
+Lg,Gram,Intel Core i5,8GB,512GB SSD,Windows,Missing,1130.87,0.0,0
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,Missing,793.0,4.3,1124
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1299.87,4.9,35
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,883.87,4.8,9
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,920.387,4.7,98
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,857.87,4.1,31
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,697.9699999999999,4.4,19
+Msi,Modern,Intel Core i5,8GB,512GB SSD,Windows,Missing,727.87,0.0,0
+Asus,VivoBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,691.4699999999999,4.5,11
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,766.987,4.4,45
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,935.87,0.0,0
+Hp,Missing,Intel Core i5,8GB,512GB SSD,Windows,Missing,1066.0,0.0,0
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,16,1104.87,0.0,0
+Lenovo,Thinpad,Intel Core i5,8GB,512GB SSD,Windows,Missing,1169.974,0.0,0
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1299.87,0.0,0
+Asus,Zenbook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1104.87,0.0,0
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,Missing,908.687,4.3,474
+Dell,Inpiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,1039.87,0.0,0
+Dell,GAMING,Intel Core i5,8GB,512GB SSD,Windows,Missing,991.9,4.2,6
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,Missing,727.987,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,947.6999999999999,3.9,24
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,961.87,4.5,195
+Dell,Missing,Intel Core i5,8GB,512GB SSD,Windows,16,955.747,0.0,0
+Hp,Spectre,Intel Core i5,8GB,512GB SSD,Windows,Missing,1638.0,5.0,2
+Lenovo,Yoga,Intel Core i5,8GB,512GB HDD,DOS,Missing,2235.9739999999997,0.0,0
+Asus,ASUS,Intel Core i5,8GB,512GB SSD,Windows,16,1156.87,0.0,0
+Hp,HP,Intel Core i5,8GB,512GB SSD,Windows,16,1494.9869999999999,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,1078.87,4.5,21
+Acer,Intel,Intel Core i5,8GB,512GB SSD,Windows,Missing,1429.9869999999999,0.0,0
+Lenovo,Yoga,Intel Core i5,8GB,512GB SSD,Windows,16,1078.87,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,1039.87,4.8,5
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,16,1494.87,0.0,0
+Hp,Spectre,Intel Core i5,8GB,512GB SSD,Windows,16,1689.9869999999999,0.0,0
+Msi,GS,Intel Core i5,8GB,512GB SSD,Windows,Missing,1949.87,4.1,10
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,926.77,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,1033.5,4.3,10
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,1078.87,3.7,15
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,Missing,922.74,4.4,138
+Hp,430,Intel Core i5,8GB,512GB SSD,Windows,Missing,1222.0,0.0,0
+Dell,Missing,Intel Core i5,8GB,512GB SSD,Windows,16,1078.87,4.4,16
+Msi,Prestige,Intel Core i5,8GB,512GB SSD,Windows,16,1039.87,4.9,11
+Asus,Pro,Intel Core i5,8GB,512GB SSD,Windows,Missing,1117.87,0.0,0
+Asus,ExpertBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1130.87,0.0,0
+Asus,ZenBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1377.87,5.0,4
+Asus,ExpertBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1104.87,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,Missing,779.987,4.4,22
+Lenovo,Yoga,Intel Core i5,8GB,512GB SSD,Windows,16,1195.9869999999999,4.6,16
+Dell,Inspiron,Intel Core i5,8GB,512GB SSD,Windows,16,1025.7,3.6,16
+Asus,ExpertBook,Intel Core i5,8GB,512GB SSD,Windows,Missing,1726.27,0.0,0
+Nokia,PureBook,Intel Core i5,16GB,512GB SSD,Windows,14,727.87,4.1,117
+Lenovo,IdeaPad,Intel Core i5,8GB,512GB SSD,Windows,15.6,792.87,3.9,14
+Avita,Liber,Intel Core i5,8GB,512GB SSD,Windows,13.3,852.228,0.0,0
+Dell,Inspiron,Intel Core i5,16GB,512GB SSD,Windows,15.6,912.4699999999999,3.5,6
+Dell,Missing,Intel Core i5,8GB,512GB SSD,Windows,14,1034.6699999999998,0.0,0
+Asus,TUF,Intel Core i5,8GB,512GB SSD,Windows,15.6,1000.87,0.0,0
+Nokia,PureBook,Intel Core i5,8GB,512GB SSD,Windows,14,686.27,4.0,5
+Avita,Liber,Intel Core i5,8GB,512GB SSD,Windows,14,584.87,3.4,17
+Asus,Intel,Intel Core i5,8GB,512GB SSD,Windows,13.3,1104.87,3.9,17
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,14,1130.9869999999999,4.7,3
+Hp,Pavilion,Intel Core i5,16GB,512GB SSD,Windows,15.6,1014.0,4.4,512
+Avita,Liber,Intel Core i5,8GB,512GB SSD,Windows,14,949.819,3.4,17
+Hp,HP,Intel Core i5,16GB,512GB SSD,Windows,14,1312.87,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,512GB SSD,Windows,13.3,974.87,3.3,3
+Asus,ROG,Intel Core i5,8GB,512GB SSD,Windows,15.6,987.87,4.6,1365
+Lenovo,Missing,Intel Core i5,8GB,512GB SSD,Windows,15.6,1093.118,3.5,8
+Asus,ASUS,Intel Core i5,8GB,1024GB SSD,Windows,15.6,987.87,4.5,368
+Asus,TUF,Intel Core i5,8GB,1024GB SSD,Windows,17.3,1013.87,4.4,202
+Asus,ROG,Intel Core i5,8GB,1024GB SSD,Windows,15.6,1013.87,4.5,187
+Apple,MacBook,Intel Core i5,16GB,1024GB SSD,Mac,13,2339.87,4.7,31
+Apple,MacBook,Intel Core i5,16GB,1024GB SSD,Mac,13,2339.87,4.8,91
+Asus,ROG,Intel Core i5,8GB,1024GB SSD,Windows,Missing,1078.87,4.5,844
+Asus,TUF,Intel Core i5,8GB,1024GB SSD,Windows,16,1143.87,0.0,0
+Asus,F17,Intel Core i5,8GB,1024GB SSD,Windows,Missing,1098.5,4.3,3
+Dell,Inspiron,Intel Core i5,8GB,1024GB SSD,Windows,13.3,964.4699999999999,4.5,21
+Lenovo,ThinkBook,Intel Core i5,8GB,1024GB SSD,Windows,13.3,844.87,3.0,4
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD + 512GB HDD,Windows,16,2020.3429999999998,0.0,0
+Lenovo,ThinkPad,Intel Core i5,8GB,512GB SSD + 512GB HDD,Windows,Missing,1630.1219999999998,0.0,0
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,15.6,649.87,0.0,0
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,14,610.87,3.8,253
+Dell,Vostro,Intel Core i5,8GB,1024GB HDD,Windows,14,636.87,3.6,470
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,Missing,779.987,4.1,118
+Asus,VivoBook,Intel Core i5,8GB,1024GB HDD,Windows,Missing,610.87,4.0,1444
+Msi,GF63,Intel Core i5,8GB,1024GB HDD,Windows,Missing,688.87,4.1,1114
+Lenovo,Missing,Intel Core i5,8GB,1024GB HDD,Windows,Missing,753.987,0.0,0
+Lenovo,B50-70,Intel Core i5,8GB,1024GB HDD,Windows,Missing,682.37,3.8,78
+Lenovo,Ideapad,Intel Core i5,8GB,1024GB HDD,Windows,Missing,740.87,4.0,21
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,Missing,805.87,4.1,73
+Dell,Missing,Intel Core i5,8GB,1024GB HDD,Windows,Missing,755.17,0.0,0
+Asus,ExpertBook,Intel Core i5,8GB,1024GB HDD,Windows,Missing,740.87,0.0,0
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,Missing,800.761,0.0,0
+Asus,Pro,Intel Core i5,8GB,1024GB HDD,Windows,Missing,1065.87,0.0,0
+Asus,ExpertBook,Intel Core i5,8GB,1024GB HDD,Windows,Missing,796.237,0.0,0
+Dell,Missing,Intel Core i5,8GB,1024GB HDD,Windows,Missing,766.87,0.0,0
+Asus,ExpertBook,Intel Core i5,8GB,1024GB HDD,Windows,Missing,1091.87,0.0,0
+Msi,GE76,Intel Core i5,8GB,512GB HDD,DOS,Missing,3785.47,4.6,7
+Msi,GP65,Intel Core i5,8GB,512GB HDD,DOS,Missing,1897.87,4.5,715
+Msi,GP76,Intel Core i5,8GB,512GB HDD,DOS,Missing,2339.87,4.4,24
+Hp,Pavilion,Intel Core i5,8GB,1024GB HDD,Windows,15.6,844.87,4.3,23
+Hp,15q,Intel Core i5,8GB,1024GB HDD,Windows,15.6,608.27,4.2,3062
+Hp,Missing,Intel Core i5,4GB,1024GB HDD,Windows,15.6,579.7869999999999,4.1,122
+Acer,Swift,Intel Core i5,8GB,1024GB HDD,Windows,15.6,948.5319999999999,4.2,18
+Hp,250,Intel Core i5,8GB,1024GB HDD,Windows,15.6,634.27,3.4,11
+Acer,Aspire,Intel Core i5,8GB,1024GB HDD,Windows,15.6,734.3829999999999,3.2,30
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,662.87,4.3,1188
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,727.87,4.5,23
+Acer,Aspire,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,753.87,4.6,32
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,688.87,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,753.87,4.2,47
+Acer,Aspire,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,740.87,4.0,27
+Acer,Travelmate,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,14,721.37,3.8,8
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,812.37,3.9,157
+Asus,VivoBook,Intel Core i5,16GB,256GB SSD + 1024GB HDD,Windows,15.6,844.87,4.7,10
+Lenovo,Ideapad,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,779.87,4.3,52
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,782.4699999999999,4.4,33
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,708.37,4.3,343
+Lenovo,Legion,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,792.87,4.3,131
+Dell,Inspiron,Intel Core i5,4GB,256GB SSD + 1024GB HDD,Windows,14.9,725.27,4.2,41
+Asus,VivoBook,Intel Core i5,16GB,256GB SSD + 1024GB HDD,Windows,15.6,844.87,4.3,328
+Asus,Missing,Intel Core i5,16GB,256GB SSD + 1024GB HDD,Windows,17.3,766.87,4.8,6
+Dell,Vostro,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,14,714.87,3.8,353
+Hp,Pavilion,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,935.87,4.3,127
+Dell,3511,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,908.6999999999999,0.0,0
+Lenovo,Ideapad,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,857.87,4.2,241
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,649.87,3.9,22
+Dell,Vostro,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,766.87,4.0,8
+Lenovo,IdeaPad,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,969.67,4.4,898
+Asus,Missing,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,766.87,5.0,1
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,844.87,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,864.37,3.8,6
+Dell,G3,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,1012.6999999999999,4.3,179
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,877.37,3.8,41
+Dell,Vostro,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,805.87,0.0,0
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,766.87,4.3,114
+Lenovo,IdeaPad,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,974.987,4.3,268
+Asus,VivoBook,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,Missing,895.6999999999999,5.0,6
+Dell,Inspiron,Intel Core i5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,932.035,4.2,153
+Acer,Travelmate,Intel Core i5,16GB,256GB SSD + 1024GB HDD,Windows,14,812.37,3.4,8
+Dell,Inspiron,Intel Core i5,8GB,2048GB HDD,Windows,15.6,810.121,4.0,377
+Msi,GS66,Intel Core i5,8GB,512GB HDD,DOS,Missing,2694.77,0.0,0
+Dell,Inspiron,Intel Core i7,16GB,256GB SSD,Windows,Missing,1143.87,4.1,120
+Avita,Liber,Intel Core i7,8GB,256GB SSD,Windows,14,961.87,0.0,0
+Asus,VivoBook,Intel Core i7,16GB,512GB SSD,Windows,15.6,753.87,4.3,76
+Asus,VivoBook,Intel Core i7,8GB,512GB SSD,Windows,15.6,805.87,4.5,11
+Msi,GF63,Intel Core i7,16GB,512GB SSD,Windows,15.6,1039.87,4.5,484
+Lenovo,IdeaPad,Intel Core i7,8GB,512GB SSD,Windows,15.6,896.87,4.5,44
+Mi,Notebook,Intel Core i7,8GB,512GB SSD,Windows,14,773.37,4.2,399
+Lenovo,IdeaPad,Intel Core i7,16GB,512GB SSD,Windows,14,1117.87,4.4,77
+Lenovo,Legion,Intel Core i7,16GB,512GB SSD,Windows,15.6,1299.87,4.4,11
+Infinix,X1,Intel Core i7,16GB,512GB SSD,Windows,14,714.87,4.3,57
+Asus,VivoBook,Intel Core i7,8GB,512GB SSD,Windows,14,1013.87,4.3,21
+Lenovo,IdeaPad,Intel Core i7,8GB,512GB SSD,Windows,15.6,1039.87,4.0,5
+Hp,Pavilion,Intel Core i7,16GB,512GB SSD,Windows,15.6,1211.47,5.0,4
+Asus,ZenBook,Intel Core i7,16GB,512GB SSD,Windows,13.3,1234.87,0.0,0
+Lenovo,Thinkbook,Intel Core i7,16GB,512GB SSD,Windows,14,1104.87,4.5,13
+Msi,Missing,Intel Core i7,8GB,512GB SSD,Windows,14,753.87,4.4,15
+Hp,Envy,Intel Core i7,16GB,512GB SSD,Windows,13.3,1338.87,4.7,11
+Dell,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,1299.87,0.0,0
+Asus,ASUS,Intel Core i7,16GB,512GB SSD,Windows,16,1234.87,4.5,118
+Hp,Envy,Intel Core i7,16GB,512GB SSD,Windows,16,1352.0,0.0,0
+Msi,Missing,Intel Core i7,16GB,512GB SSD,Windows,Missing,1000.87,0.0,0
+Hp,Pavilion,Intel Core i7,16GB,512GB SSD,Windows,16,1172.47,4.3,6
+Lenovo,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,1150.344,0.0,0
+Msi,Prestige,Intel Core i7,16GB,512GB SSD,Windows,16,1429.87,4.3,138
+Msi,Sword,Intel Core i7,16GB,512GB SSD,Windows,Missing,1130.87,0.0,0
+Msi,Prestige,Intel Core i7,16GB,512GB SSD,Windows,16,1169.87,0.0,0
+Hp,Spectre,Intel Core i7,16GB,512GB SSD,Windows,16,3116.8669999999997,0.0,0
+Asus,VivoBook,Intel Core i7,16GB,512GB SSD,Windows,Missing,1026.87,4.5,35
+Dell,XPS,Intel Core i7,16GB,512GB SSD,Windows,16,1584.57,1.7,3
+Asus,ZenBook,Intel Core i7,16GB,512GB SSD,Windows,Missing,1117.87,4.4,18
+Msi,Katana,Intel Core i7,16GB,512GB SSD,Windows,16,1234.87,0.0,0
+Hp,Pavilion,Intel Core i7,16GB,512GB SSD,Windows,16,1196.0,4.5,8
+Hp,Spectre,Intel Core i7,16GB,512GB SSD,Windows,16,2118.87,3.3,3
+Dell,XPS,Intel Core i7,16GB,512GB SSD,Windows,16,1758.8999999999999,5.0,5
+Msi,Modern,Intel Core i7,16GB,512GB SSD,Windows,Missing,844.87,4.4,33
+Lenovo,ThinkPad,Intel Core i7,16GB,512GB SSD,Windows,16,2268.851,0.0,0
+Lenovo,ThinkPad,Intel Core i7,16GB,512GB SSD,Windows,Missing,2109.8869999999997,0.0,0
+Dell,Inspiron,Intel Core i7,16GB,512GB SSD,Windows,Missing,1419.47,0.0,0
+Hp,Pavilion,Intel Core i7,16GB,512GB SSD,Windows,16,1299.9869999999999,0.0,0
+Msi,Prestige,Intel Core i7,16GB,512GB SSD,Windows,16,1364.87,4.0,85
+Asus,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,1429.87,0.0,0
+Asus,ZenBook,Intel Core i7,16GB,512GB SSD,Windows,16,1299.87,4.3,30
+Lenovo,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,3182.413,0.0,0
+Asus,ZenBook,Intel Core i7,16GB,512GB SSD,Windows,16,1234.87,0.0,0
+Lenovo,Ideapad,Intel Core i7,16GB,512GB SSD,Windows,Missing,1118.0,0.0,0
+Lenovo,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,2111.187,0.0,0
+Hp,Missing,Intel Core i7,16GB,512GB SSD,Windows,Missing,1554.787,0.0,0
+Lenovo,Missing,Intel Core i7,16GB,512GB SSD,Windows,16,2752.7889999999998,0.0,0
+Lenovo,Intel,Intel Core i7,16GB,512GB SSD,Windows,14,1442.9869999999999,0.0,0
+Dell,Missing,Intel Core i7,16GB,512GB SSD,Windows,15.6,1299.87,0.0,0
+Asus,ZenBook,Intel Core i7,8GB,512GB SSD,Windows,13.3,1065.87,4.3,40
+Msi,GF63,Intel Core i7,8GB,512GB SSD,Windows,15.6,870.87,4.5,1639
+Msi,GF65,Intel Core i7,16GB,1024GB SSD,Windows,15.6,1104.87,4.4,498
+Asus,Zenbook,Intel Core i7,16GB,1024GB SSD,Windows,14,1364.87,0.0,0
+Asus,ZenBook,Intel Core i7,16GB,1024GB SSD,Windows,14,1754.87,0.0,0
+Asus,ASUS,Intel Core i7,16GB,1024GB SSD,Windows,15.6,1286.87,4.5,445
+Hp,Envy,Intel Core i7,16GB,1024GB SSD,Windows,15.6,1880.97,4.2,17
+Asus,ZenBook,Intel Core i7,16GB,1024GB SSD,Windows,13.3,1299.87,0.0,0
+Msi,Stealth,Intel Core i7,16GB,1024GB SSD,Windows,16,1559.87,4.3,20
+Asus,Zephyrus,Intel Core i7,16GB,1024GB SSD,Windows,16,2534.87,0.0,0
+Asus,ZenBook,Intel Core i7,16GB,1024GB SSD,Windows,16,1624.87,4.6,17
+Dell,Inspiron,Intel Core i7,16GB,1024GB SSD,Windows,16,1591.33,0.0,0
+Hp,Spectre,Intel Core i7,16GB,1024GB SSD,Windows,16,2339.87,4.2,13
+Msi,Summit,Intel Core i7,16GB,1024GB SSD,Windows,16,2014.87,4.0,3
+Lenovo,Yoga,Intel Core i7,16GB,1024GB SSD,Windows,16,1598.87,3.0,4
+Asus,Missing,Intel Core i7,16GB,1024GB SSD,Windows,Missing,2924.87,4.7,9
+Msi,Stealth,Intel Core i7,16GB,1024GB SSD,Windows,Missing,3639.87,0.0,0
+Hp,OMEN,Intel Core i7,16GB,1024GB SSD,Windows,16,1585.87,0.0,0
+Hp,OMEN,Intel Core i7,16GB,1024GB SSD,Windows,16,1520.87,0.0,0
+Lenovo,Legion,Intel Core i7,16GB,1024GB SSD,Windows,16,1964.274,4.4,7
+Msi,Pulse,Intel Core i7,16GB,1024GB SSD,Windows,16,1689.87,4.2,14
+Hp,Spectre,Intel Core i7,16GB,1024GB SSD,Windows,16,1949.9869999999999,0.0,0
+Msi,Missing,Intel Core i7,16GB,1024GB SSD,Windows,16,1819.87,4.5,4
+Acer,Predator,Intel Core i7,16GB,1024GB SSD,Windows,16,1689.87,4.5,54
+Hp,OMEN,Intel Core i7,16GB,1024GB SSD,Windows,16,2235.87,0.0,0
+Dell,Inspiron,Intel Core i7,16GB,1024GB SSD,Windows,16,1221.415,4.8,4
+Asus,ROG,Intel Core i7,16GB,1024GB SSD,Windows,Missing,3054.87,0.0,0
+Hp,Spectre,Intel Core i7,16GB,1024GB SSD,Windows,16,1670.5,3.7,3
+Lenovo,Yoga,Intel Core i7,16GB,1024GB SSD,Windows,16,1338.87,4.4,16
+Asus,ZenBook,Intel Core i7,16GB,1024GB SSD,Windows,16,1559.87,4.8,8
+Asus,Missing,Intel Core i7,16GB,1024GB SSD,Windows,16,1572.74,0.0,0
+Asus,Zephyrus,Intel Core i7,16GB,1024GB SSD,Windows,16,2044.2369999999999,4.3,7
+Lenovo,Missing,Intel Core i7,16GB,1024GB SSD,Windows,16,2988.7,0.0,0
+Asus,ASUS,Intel Core i7,16GB,1024GB SSD,Windows,16,1709.5,0.0,0
+Asus,ExpertBook,Intel Core i7,16GB,1024GB SSD,Windows,16,2014.87,5.0,3
+Asus,ExpertBook,Intel Core i7,16GB,1024GB SSD,Windows,16,2157.87,0.0,0
+Lenovo,Yoga,Intel Core i7,16GB,1024GB SSD,Windows,16,1559.87,2.5,2
+Asus,ExpertBook,Intel Core i7,16GB,1024GB SSD,Windows,16,2183.87,0.0,0
+Hp,Spectre,Intel Core i7,16GB,1024GB SSD,Windows,16,2145.0,0.0,0
+Avita,Liber,Intel Core i7,16GB,1024GB SSD,Windows,14,818.87,3.9,207
+Lenovo,ThinkBook,Intel Core i7,16GB,1024GB SSD,Windows,13,1117.87,3.4,7
+Hp,HP,Intel Core i7,16GB,1024GB SSD,Windows,13.3,1234.87,0.0,0
+Hp,Omen,Intel Core i7,16GB,1024GB SSD,Windows,16.1,1780.87,0.0,0
+Lenovo,Legion,Intel Core i7,16GB,1024GB SSD,Windows,15.6,3054.87,0.0,0
+Acer,Predator,Intel Core i7,16GB,2048GB SSD,Windows,16,2079.87,3.8,4
+Asus,ExpertBook,Intel Core i7,16GB,2048GB SSD,Windows,16,3041.87,0.0,0
+Asus,ExpertBook,Intel Core i7,16GB,1024GB HDD,Windows,Missing,1221.87,0.0,0
+Hp,15,Intel Core i7,16GB,128GB SSD + 1024GB HDD,Windows,Missing,1520.233,0.0,0
+Msi,GF63,Intel Core i7,8GB,256GB SSD + 1024GB HDD,Windows,15.6,831.87,4.3,794
+Asus,VivoBook,Intel Core i7,16GB,256GB SSD + 1024GB HDD,Windows,15.6,870.87,4.2,25
+Asus,Missing,Intel Core i7,16GB,256GB SSD + 1024GB HDD,Windows,Missing,1072.5,0.0,0
+Acer,Predator,Intel Core i7,16GB,256GB SSD + 1024GB HDD,Windows,16,1559.87,4.6,2038
+Msi,WF65,Intel Core i7,16GB,256GB SSD + 1024GB HDD,Windows,16,2079.87,0.0,0
+Asus,Pro,Intel Core i7,16GB,256GB SSD + 1024GB HDD,Windows,Missing,1285.856,0.0,0
+Acer,Predator,Intel Core i7,16GB,512GB SSD + 1024GB HDD,Windows,15.6,1208.87,4.5,214
+Acer,Predator,Intel Core i7,16GB,512GB SSD + 1024GB HDD,Windows,15.6,1559.87,4.5,342
+Acer,Predator,Intel Core i9,32GB,1024GB SSD,Windows,15.6,2209.87,0.0,0
+Acer,Predator,Intel Core i9,16GB,1024GB SSD,Windows,15.6,1819.87,0.0,0
+Msi,Creator,Intel Core i9,16GB,1024GB SSD,Windows,16,2508.87,0.0,0
+Asus,ROG,Intel Core i9,16GB,1024GB SSD,Windows,Missing,3899.87,0.0,0
+Asus,Missing,Intel Core i9,16GB,1024GB SSD,Windows,Missing,3509.87,4.8,8
+Asus,ASUS,Intel Core i9,16GB,1024GB SSD,Windows,15.6,1819.87,0.0,0
+Lenovo,Missing,Intel Core i9,16GB,1024GB SSD,Windows,15.6,3457.9739999999997,0.0,0
+Asus,Zephyrus,Intel Core i9,16GB,3072GB SSD,Windows,Missing,5745.87,5.0,1
+Smartron,t.book,Intel Core m3,4GB,128GB SSD,Windows,12.2,558.87,3.5,25
+Msi,Katana,Intel Core i5,8GB,512GB HDD,DOS,Missing,1130.87,4.5,218
+Acer,Aspire,AMD Dual Core,4GB,256GB SSD,Windows,Missing,389.87,0.0,0
+Acer,Dual,AMD Dual Core,4GB,256GB SSD,Windows,Missing,415.87,4.0,762
+Msi,Pulse,Intel Core i5,8GB,512GB HDD,DOS,Missing,1429.87,4.6,78
+Msi,Pulse,Intel Core i5,8GB,512GB HDD,DOS,Missing,1424.6699999999998,4.6,5
+Asus,ROG,Intel Core i7,16GB,512GB HDD,DOS,Missing,1904.37,3.0,2
+Hp,Chromebook,Intel Dual Core,4GB,512GB HDD,DOS,Missing,802.685,4.6,23
+Asus,ZenBook,Intel Ever Screenpad,4GB,512GB HDD,DOS,Missing,2725.97,5.0,4
+Asus,ZenBook,Intel Ever Screenpad,4GB,512GB HDD,DOS,Missing,2277.47,4.8,6
+Alienware,Missing,Intel GeForce GTX,8GB,512GB HDD,DOS,15.6,2599.87,4.9,12
+Dell,G15,Intel GeForce GTX,8GB,512GB HDD,DOS,15.6,981.5,4.4,28
+Alienware,Missing,Intel GeForce RTX,8GB,512GB HDD,DOS,15.6,4490.07,4.6,10
+Alienware,Missing,Intel GeForce RTX,8GB,512GB HDD,DOS,15.6,2792.27,4.1,13
+Alienware,Missing,Intel GeForce RTX,8GB,512GB HDD,DOS,15.6,3500.77,4.0,5
+Dell,G15,Intel GEFORCE RTX,4GB,512GB HDD,DOS,Missing,1247.87,4.3,20
+Msi,GF65,Intel Hexa Core,16GB,512GB SSD,Windows,15.6,1000.87,4.5,298
+Msi,GF63,Intel Hexa Core,8GB,256GB SSD + 1024GB HDD,Windows,15.6,727.87,4.4,2582
+Apple,MacBook,M1 M1,8GB,256GB SSD,Mac,13.3,1117.87,4.7,6725
+Apple,MacBook,M1 M1,8GB,256GB SSD,Mac,13.3,1468.87,4.8,640
+Apple,MacBook,M1 M1,16GB,256GB SSD,Mac,13.3,1364.87,4.7,45
+Apple,MacBook,M1 M1,16GB,256GB SSD,Mac,13.3,1728.87,4.8,640
+Apple,MacBook,M1 M1,16GB,512GB SSD,Mac,13.3,1949.87,4.8,640
+Apple,MacBook,M1 M1,8GB,512GB SSD,Mac,13.3,1637.87,4.6,399
+Apple,MacBook,M1 M1,8GB,512GB SSD,Mac,13.3,1351.87,4.7,809
+Apple,MacBook,M1 M1,8GB,512GB SSD,Mac,13.3,1325.87,4.7,809
+Apple,MacBook,M1 M1,8GB,512GB SSD,Mac,13.3,1364.87,4.7,6725
+Apple,MacBook,M1 M1,8GB,512GB SSD,Mac,13.3,1715.87,4.6,399
+Apple,MacBook,M1 M1,16GB,512GB SSD,Mac,13.3,1676.87,4.7,45
+Apple,MacBook,M1 M1,16GB,512GB SSD,Mac,14.2,2404.87,4.8,42
+Apple,MacBook,M1 M1,16GB,512GB SSD,Mac,16.2,2937.87,4.8,42
+Apple,MacBook,M1 M1,4GB,512GB SSD,Mac,16,1624.87,4.7,45
+Apple,MacBook,M1 M1,8GB,1024GB SSD,Mac,13.3,1949.87,4.8,640
+Apple,MacBook,M1 M1,16GB,1024GB SSD,Mac,13.3,2209.87,4.8,640
+Apple,MacBook,M1 M1,16GB,1024GB SSD,Mac,14.2,2937.87,4.8,42
+Apple,MacBook,M1 M1,16GB,1024GB SSD,Mac,16.2,3171.87,4.8,42
+Apple,MacBook,M1 M1,32GB,1024GB SSD,Mac,16.2,4029.87,5.0,3
+Dell,G7,Intel GeForce RTX,8GB,512GB HDD,DOS,15.6,2339.87,4.5,17
+Acer,Missing,Intel Genuine Windows,4GB,128GB SSD,DOS,Missing,1516.32,0.0,0
+Acer,Predator,Intel Genuine Windows,4GB,512GB HDD,DOS,Missing,1689.9869999999999,4.5,3227
+Asus,ASUS,Intel Pentium Quad,4GB,512GB HDD,Windows,Missing,597.87,0.0,0
+Iball,CompBook,Intel Pentium Quad,4GB,512GB HDD,Windows,Missing,181.87,3.8,1218
+Asus,Pentium,Intel Pentium Quad,4GB,128GB SSD,Windows,Missing,755.3,0.0,0
+Asus,ASUS,Intel Pentium Quad,8GB,256GB SSD,Windows,13.3,818.87,0.0,0
+Hp,Pentium,Intel Pentium Quad,8GB,256GB SSD,Windows,14,428.87,4.1,77
+Asus,VivoBook,Intel Pentium Quad,4GB,256GB SSD,Windows,Missing,441.87,4.3,6
+Acer,Extensa,Intel Pentium Quad,4GB,256GB SSD,Windows,Missing,402.87,4.2,465
+Dell,Inspiron,Intel Pentium Quad,4GB,256GB SSD,Windows,Missing,468.0,4.3,102
+Asus,VivoBook,Intel Pentium Quad,4GB,256GB SSD,Windows,Missing,428.87,4.3,7
+Dell,Inspiron,Intel Pentium Quad,4GB,256GB SSD,Windows,15.6,467.87,0.0,0
+Asus,Pentium,Intel Pentium Quad,4GB,1024GB HDD,Windows,15.6,363.87,0.0,0
+Asus,Pentium,Intel Pentium Quad,4GB,1024GB HDD,Windows,15.6,337.87,3.7,4741
+Asus,Pentium,Intel Pentium Quad,4GB,1024GB HDD,Windows,15.6,337.87,3.8,2736
+Asus,Asus,Intel Pentium Quad,4GB,1024GB HDD,Windows,15.6,400.14,0.0,0
+Asus,VivoBook,Intel Pentium Silver,4GB,256GB SSD,Windows,14,389.87,4.0,36
+Asus,EeeBook,Intel Pentium Silver,4GB,256GB SSD,Windows,Missing,415.87,3.8,5
+Lenovo,Legion,Intel Genuine Windows,4GB,512GB HDD,DOS,Missing,1012.5699999999999,4.4,208
+Hp,Ryzen,AMD Ryzen 3,8GB,256GB SSD,Windows,15.6,493.87,4.3,2214
+Asus,Ryzen,AMD Ryzen 3,8GB,256GB SSD,Windows,15.6,467.87,4.3,2886
+Dell,Inspiron,AMD Ryzen 3,8GB,256GB SSD,Windows,15.6,513.37,4.3,34
+Dell,Inspiron,AMD Ryzen 3,8GB,256GB SSD,Windows,14.96,480.87,4.2,137
+Dell,Ryzen,AMD Ryzen 3,8GB,256GB SSD,Windows,15.6,519.87,4.6,7
+Asus,Ryzen,AMD Ryzen 3,4GB,256GB SSD,Windows,15.6,437.96999999999997,4.2,170
+Dell,Inspiron,AMD Ryzen 3,8GB,256GB SSD,Windows,15.6,527.67,0.0,0
+Asus,VivoBook,AMD Ryzen 3,4GB,256GB SSD,Windows,Missing,493.87,4.2,39
+Asus,VivoBook,AMD Ryzen 3,4GB,256GB SSD,Windows,Missing,448.5,4.3,2886
+Acer,Aspire,AMD Ryzen 3,8GB,512GB SSD,Windows,15.6,480.87,4.6,11
+Hp,Ryzen,AMD Ryzen 3,8GB,512GB SSD,Windows,14,565.37,4.6,163
+Hp,Ryzen,AMD Ryzen 3,8GB,512GB SSD,Windows,15.6,539.37,4.2,153
+Acer,Aspire,AMD Ryzen 3,4GB,512GB SSD,Windows,15.6,454.87,0.0,0
+Hp,15s,AMD Ryzen 3,4GB,512GB SSD,Windows,Missing,578.37,4.3,267
+Dell,Vostro,AMD Ryzen 3,4GB,512GB SSD,Windows,Missing,527.67,0.0,0
+Dell,Inspiron,AMD Ryzen 3,8GB,512GB SSD,Windows,15.6,547.17,3.3,3
+Dell,Vostro,AMD Ryzen 3,8GB,1024GB HDD,Windows,14,467.87,4.1,59
+Hp,15s,AMD Ryzen 3,8GB,1024GB HDD,Windows,15.6,513.37,4.2,7291
+Dell,Inspiron,AMD Ryzen 3,8GB,1024GB HDD,Windows,15.6,486.07,4.2,38
+Dell,Inspiron,AMD Ryzen 3,4GB,1024GB HDD,Windows,Missing,684.216,0.0,0
+Dell,Inspiron,AMD Ryzen 3,4GB,1024GB HDD,Windows,Missing,519.87,4.1,409
+Dell,DELL,AMD Ryzen 3,4GB,1024GB HDD,Windows,Missing,571.87,0.0,0
+Hp,15q,AMD Ryzen 3,4GB,1024GB HDD,Windows,15.6,427.921,4.0,353
+Lenovo,Ryzen,AMD Ryzen 3,4GB,1024GB HDD,Windows,15.6,454.87,3.3,38
+Dell,Inspiron,AMD Ryzen 3,8GB,1024GB HDD,Windows,14.96,519.87,3.1,18
+Hp,15s,AMD Ryzen 3,8GB,256GB SSD + 1024GB HDD,Windows,15.6,545.987,4.3,3524
+Hp,Chromebook,MediaTek MediaTek Kompanio,4GB,512GB HDD,DOS,Missing,298.87,3.8,4623
+Hp,Chromebook,MediaTek MediaTek Kompanio,4GB,512GB HDD,DOS,Missing,292.37,3.8,4623
+Microsoft,Surface,AMD Ryzen 5,4GB,128GB SSD,Windows,Missing,1299.87,3.8,9
+Dell,Vostro,AMD Ryzen 5,8GB,256GB SSD,Windows,14,545.87,4.3,939
+Dell,Inspiron,AMD Ryzen 5,8GB,256GB SSD,Windows,15.6,578.37,4.2,14
+Dell,Inspiron,AMD Ryzen 5,8GB,256GB SSD,Windows,15.6,545.87,4.4,649
+Dell,Vostro,AMD Ryzen 5,8GB,256GB SSD,Windows,14,578.37,4.3,8
+Msi,Modern,AMD Ryzen 5,4GB,256GB SSD,Windows,Missing,649.87,0.0,0
+Dell,Inspiron,AMD Ryzen 5,4GB,256GB SSD,Windows,Missing,577.0699999999999,4.0,276
+Hp,Pavilion,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,753.87,4.5,4740
+Lenovo,IdeaPad,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,740.87,4.5,162
+Lenovo,IdeaPad,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,636.87,4.4,219
+Hp,Ryzen,AMD Ryzen 5,8GB,512GB SSD,Windows,14,649.61,4.5,193
+Msi,Modern,AMD Ryzen 5,8GB,512GB SSD,Windows,14,623.87,4.6,562
+Hp,Ryzen,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,636.87,4.4,45
+Acer,Swift,AMD Ryzen 5,8GB,512GB SSD,Windows,14,701.87,4.9,7
+Lenovo,IdeaPad,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,688.87,4.2,39
+Acer,Aspire,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,571.87,0.0,0
+Lenovo,Ideapad,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,773.37,4.5,92
+Msi,Bravo,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,844.87,4.5,469
+Dell,Vostro,AMD Ryzen 5,8GB,512GB SSD,Windows,14,617.37,2.5,2
+Hp,HP,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,779.87,4.4,1978
+Lenovo,Legion,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,909.87,4.3,9
+Hp,15-ec1105AX,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,766.87,4.5,1049
+Dell,Vostro,AMD Ryzen 5,8GB,512GB SSD,Windows,14,773.37,4.6,74
+Hp,Pavilion,AMD Ryzen 5,16GB,512GB SSD,Windows,15.6,877.5,4.4,196
+Hp,Ryzen,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,636.87,4.6,17
+Asus,VivoBook,AMD Ryzen 5,8GB,512GB SSD,Windows,14,811.8499999999999,4.4,172
+Asus,VivoBook,AMD Ryzen 5,8GB,512GB SSD,Windows,14,766.87,4.4,324
+Asus,APU,AMD Quad,4GB,512GB HDD,DOS,Missing,259.87,4.0,2887
+Hp,Pavilion,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,753.987,4.5,86
+Asus,VivoBook,AMD Ryzen 5,16GB,512GB SSD,Windows,15.6,740.87,4.8,4
+Hp,Pavilion,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,948.87,4.7,16
+Hp,Pavilion,AMD Ryzen 5,16GB,512GB SSD,Windows,13.3,857.87,4.4,104
+Hp,Envy,AMD Ryzen 5,16GB,512GB SSD,Windows,13.3,1274.26,0.0,0
+Hp,Pavilion,AMD Ryzen 5,16GB,512GB SSD,Windows,14,831.87,4.2,90
+Asus,Ryzen,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,648.5699999999999,4.7,6
+Dell,Inspiron,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,649.87,4.4,47
+Dell,Vostro,AMD Ryzen 5,8GB,512GB SSD,Windows,14,773.37,0.0,0
+Hp,Envy,AMD Ryzen 5,8GB,512GB SSD,Windows,13.3,961.987,4.6,206
+Dell,Inspiron,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,792.87,4.4,183
+Dell,G5,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,990.4699999999999,4.4,358
+Lenovo,Yoga,AMD Ryzen 5,4GB,512GB SSD,Windows,16,972.3739999999999,0.0,0
+Asus,VivoBook,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,766.87,4.3,88
+Hp,Ryzen,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,885.3,0.0,0
+Lenovo,Yoga,AMD Ryzen 5,4GB,512GB SSD,Windows,16,1013.87,0.0,0
+Hp,Pavilion,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,716.17,4.4,364
+Asus,Zenbook,AMD Ryzen 5,4GB,512GB SSD,Windows,16,1195.87,0.0,0
+Hp,Pavilion,AMD Ryzen 5,4GB,512GB SSD,Windows,16,1094.704,0.0,0
+Acer,Aspire,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,584.87,4.4,313
+Hp,15s,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,695.37,4.4,826
+Lenovo,Legion,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,994.4739999999999,0.0,0
+Dell,Ryzen,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,1285.96,0.0,0
+Msi,Modern,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,714.87,4.4,1410
+Acer,Aspire,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,649.87,4.4,47
+Hp,Ryzen,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,680.9399999999999,0.0,0
+Acer,Aspire,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,649.87,4.5,6
+Hp,14s,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,682.5,4.3,741
+Vaio,E,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,644.67,4.1,700
+Asus,Ryzen,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,649.87,4.5,14
+Acer,Aspire,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,987.987,0.0,0
+Asus,AMD,AMD Ryzen 5,4GB,512GB SSD,Windows,16,1052.87,0.0,0
+Lenovo,IDEAPAD,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,778.6999999999999,3.7,3
+Hp,15s,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,709.67,4.4,349
+Dell,Inspiron,AMD Ryzen 5,4GB,512GB SSD,Windows,Missing,981.5,0.0,0
+Hp,Ryzen,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,674.5699999999999,4.3,519
+Asus,VivoBook,AMD Ryzen 5,16GB,512GB SSD,Windows,17.3,1014.0,2.7,3
+Vaio,E,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,662.87,4.1,700
+Hp,Pavilion,AMD Ryzen 5,16GB,512GB SSD,Windows,14,779.987,4.1,19
+Hp,Pavilion,AMD Ryzen 5,8GB,512GB SSD,Windows,15.6,844.87,3.8,8
+Dell,Ryzen,AMD Ryzen 5,4GB,1024GB SSD,Windows,Missing,752.6999999999999,4.7,3
+Lenovo,Yoga,AMD Ryzen 5,4GB,1024GB SSD,Windows,16,1065.714,0.0,0
+Hp,Pavilion,AMD Ryzen 5,4GB,1024GB HDD,Windows,Missing,779.87,4.1,1480
+Dell,Inspiron,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,643.37,4.0,31
+Asus,VivoBook,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,714.87,4.5,18
+Lenovo,Legion,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,890.5,4.5,271
+Asus,VivoBook,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,714.87,4.6,49
+Asus,VivoBook,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,714.87,4.4,474
+Lenovo,Ideapad,AMD Ryzen 5,8GB,256GB SSD + 1024GB HDD,Windows,15.6,831.87,4.5,861
+Hp,Pavilion,AMD Ryzen 5,4GB,256GB SSD + 1024GB HDD,Windows,Missing,1040.0,4.6,34
+Dell,Ryzen,AMD Ryzen 5,4GB,256GB SSD + 1024GB HDD,Windows,Missing,675.87,0.0,0
+Asus,VivoBook,AMD Ryzen 5,4GB,256GB SSD + 1024GB HDD,Windows,Missing,818.87,4.2,165
+Hp,Ryzen,AMD Ryzen 5,4GB,256GB SSD + 1024GB HDD,Windows,Missing,688.87,4.4,698
+Asus,Ryzen,AMD Ryzen 5,4GB,256GB SSD + 1024GB HDD,Windows,Missing,976.3,0.0,0
+Asus,ASUS,AMD Ryzen 7,16GB,512GB SSD,Windows,17.3,1000.87,4.8,22
+Asus,Ryzen,AMD Ryzen 7,16GB,512GB SSD,Windows,14,1039.87,0.0,0
+Asus,ROG,AMD Ryzen 7,8GB,512GB SSD,Windows,15.6,935.87,4.5,144
+Asus,ROG,AMD Ryzen 7,8GB,512GB SSD,Windows,15.6,935.87,4.5,1810
+Lenovo,Lenovo,AMD Ryzen 7,16GB,512GB SSD,Windows,15.6,1299.87,4.6,26
+Dell,Ryzen,AMD Ryzen 7,16GB,512GB SSD,Windows,15.6,1221.87,0.0,0
+Asus,ASUS,AMD Ryzen 7,16GB,512GB SSD,Windows,17.3,1078.87,4.6,1067
+Asus,ROG,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1390.87,0.0,0
+Asus,VivoBook,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1208.87,4.7,25
+Lenovo,IdeaPad,Intel Ryzen 7,4GB,512GB SSD,Windows,16,1059.37,0.0,0
+Asus,VivoBook,AMD Ryzen 7,4GB,512GB SSD,Windows,16,740.87,0.0,0
+Msi,Modern,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,844.87,0.0,0
+Lenovo,Ideapad,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,792.87,4.4,530
+Lenovo,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1104.844,0.0,0
+Hp,Pavilion,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1182.87,4.6,273
+Vaio,E,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,740.87,3.8,139
+Asus,VivoBook,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,831.87,4.2,77
+Lenovo,Ideapad,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,831.87,4.4,105
+Hp,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,753.987,4.1,44
+Asus,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,941.1999999999999,0.0,0
+Lenovo,Yoga,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1026.87,4.7,6
+Acer,Aspire,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,779.87,0.0,0
+Asus,ROG,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1455.87,0.0,0
+Hp,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1417.0,0.0,0
+Dell,G5,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1169.87,4.1,191
+Lenovo,Yoga,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1026.844,0.0,0
+Lenovo,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,16,950.794,3.0,4
+Lenovo,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1390.87,0.0,0
+Asus,Ryzen,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,1039.87,0.0,0
+Dell,Inspiron,AMD Ryzen 7,4GB,512GB SSD,Windows,16,1164.4099999999999,0.0,0
+Hp,15s,AMD Ryzen 7,4GB,512GB SSD,Windows,Missing,890.5,4.5,134
+Lenovo,Ideapad,AMD Ryzen 7,16GB,512GB SSD,Windows,14,954.1999999999999,0.0,0
+Vaio,E,AMD Ryzen 7,8GB,512GB SSD,Windows,15.6,753.87,3.8,139
+Hp,Pavilion,AMD Ryzen 7,16GB,512GB SSD,Windows,14,1039.87,3.5,23
+Hp,Pavilion,AMD Ryzen 7,16GB,512GB SSD,Windows,15.6,1104.87,2.8,4
+Msi,Alpha,AMD Ryzen 7,16GB,1024GB SSD,Windows,15.6,1299.87,4.7,108
+Asus,ROG,AMD Ryzen 7,8GB,1024GB SSD,Windows,14,948.87,4.6,198
+Hp,HP,AMD Ryzen 7,16GB,1024GB SSD,Windows,13.3,1208.87,0.0,0
+Hp,Pavilion,AMD Ryzen 7,16GB,1024GB SSD,Windows,13.3,1094.47,0.0,0
+Asus,Zenbook,AMD Ryzen 7,16GB,1024GB SSD,Windows,14,1468.87,0.0,0
+Asus,ROG,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1494.87,0.0,0
+Acer,Swift,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1299.87,0.0,0
+Asus,TUF,AMD Ryzen 7,4GB,1024GB SSD,Windows,Missing,1247.87,4.7,57
+Hp,OMEN,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,2079.87,4.8,17
+Asus,ROG,AMD Ryzen 7,4GB,1024GB SSD,Windows,Missing,1000.87,0.0,0
+Lenovo,Legion,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1702.87,0.0,0
+Asus,VivoBook,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1299.87,0.0,0
+Asus,ROG,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1468.87,0.0,0
+Lenovo,Ideapad,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1013.8439999999999,0.0,0
+Asus,ROG,AMD Ryzen 7,4GB,1024GB SSD,Windows,Missing,988.0,5.0,1
+Asus,ROG,AMD Ryzen 7,4GB,1024GB SSD,Windows,16,1299.87,4.4,77
+Asus,Zephyrus,AMD Ryzen 7,4GB,1024GB SSD,Windows,Missing,1443.0,0.0,0
+Asus,Ryzen,AMD Ryzen 7,16GB,1024GB SSD,Windows,13.3,1104.61,3.0,2
+Hp,Pavilion,AMD Ryzen 7,16GB,256GB SSD + 1024GB HDD,Windows,15.6,987.87,4.5,1084
+Acer,Nitro,AMD Ryzen 7,16GB,256GB SSD + 1024GB HDD,Windows,15.6,1169.87,4.4,272
+Acer,Nitro,AMD Ryzen 7,16GB,256GB SSD + 1024GB HDD,Windows,15.6,1065.87,4.5,141
+Lenovo,Ryzen,AMD Ryzen 7,4GB,512GB SSD + 1024GB HDD,Windows,16,1046.37,0.0,0
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,15.6,1767.87,0.0,0
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,15.6,2014.87,4.6,194
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,15.6,2599.87,4.7,9
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,15.6,1494.87,4.6,28
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,15.6,1689.87,4.3,204
+Asus,ROG,AMD Ryzen 9,16GB,1024GB SSD,Windows,13.4,1494.87,4.3,32
+Msi,Delta,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1910.87,0.0,0
+Asus,VivoBook,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1364.87,4.5,14
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1494.87,4.7,14
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1624.87,5.0,3
+Asus,Zenbook,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1754.87,0.0,0
+Hp,OMEN,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1845.87,0.0,0
+Asus,Rog,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1689.87,0.0,0
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,Missing,1858.87,4.0,4
+Asus,Zephyrus,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1585.87,0.0,0
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,Missing,1624.87,4.2,44
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1845.87,4.2,61
+Asus,VivoBook,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,2118.87,0.0,0
+Asus,VivoBook,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1696.5,0.0,0
+Asus,VivoBook,AMD Ryzen 9,4GB,1024GB SSD,Windows,Missing,1520.87,0.0,0
+Asus,Ryzen,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1806.87,0.0,0
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,Missing,3054.87,0.0,0
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1767.87,0.0,0
+Asus,ROG,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1884.87,0.0,0
+Asus,Ryzen,AMD Ryzen 9,4GB,1024GB SSD,Windows,Missing,1949.87,0.0,0
+Asus,Ryzen,AMD Ryzen 9,4GB,1024GB SSD,Windows,16,1858.87,0.0,0
+Samsung,Galaxy,Qualcomm Snapdragon 7c,4GB,512GB HDD,Windows,Missing,506.87,0.0,0
+Lenovo,Thinkpad,AMD Ryzen 5,8GB,512GB SSD,DOS,14,747.37,4.2,18
+Apple,MacBook Pro,Intel Core i5 2.3GHz,8GB,128GB SSD,macOS,13.3,1420.0714,0.0,0
+Apple,Macbook Air,Intel Core i5 1.8GHz,8GB,128GB Flash Storage,macOS,13.3,952.8764000000001,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,No OS,15.6,609.5,0.0,0
+Apple,MacBook Pro,Intel Core i7 2.7GHz,16GB,512GB SSD,macOS,15.4,2689.697,0.0,0
+Apple,MacBook Pro,Intel Core i5 3.1GHz,8GB,256GB SSD,macOS,13.3,1911.816,0.0,0
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4GB,500GB HDD,Windows 10,15.6,424.0,0.0,0
+Apple,MacBook Pro,Intel Core i7 2.2GHz,16GB,256GB Flash Storage,Mac OS X,15.4,2268.3682,0.0,0
+Apple,Macbook Air,Intel Core i5 1.8GHz,8GB,256GB Flash Storage,macOS,13.3,1228.2220000000002,0.0,0
+Asus,ZenBook UX430UN,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,14.0,1584.7,0.0,0
+Acer,Swift 3,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,816.2,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,No OS,15.6,417.534,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,500GB HDD,No OS,15.6,365.68940000000003,0.0,0
+Apple,MacBook Pro,Intel Core i7 2.8GHz,16GB,256GB SSD,macOS,15.4,2586.3682,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2GHz,4GB,256GB SSD,Windows 10,15.6,528.834,0.0,0
+Apple,"MacBook 12""",Intel Core M m3 1.2GHz,8GB,256GB SSD,macOS,12.0,1338.1440000000002,0.0,0
+Apple,MacBook Pro,Intel Core i5 2.3GHz,8GB,256GB SSD,macOS,13.3,1609.663,0.0,0
+Dell,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,789.7,0.0,0
+Apple,MacBook Pro,Intel Core i7 2.9GHz,16GB,512GB SSD,macOS,15.4,3029.48,0.0,0
+Lenovo,IdeaPad 320-15IKB,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,No OS,15.6,528.94,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD,Windows 10,13.3,1037.74,0.0,0
+Asus,Vivobook E200HA,Intel Atom x5-Z8350 1.44GHz,2GB,32GB Flash Storage,Windows 10,11.6,203.41400000000002,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1058.94,0.0,0
+Hp,255 G6,AMD E-Series E2-9000e 1.5GHz,4GB,500GB HDD,No OS,15.6,273.48,0.0,0
+Dell,Inspiron 5379,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,868.1400000000001,0.0,0
+Hp,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,698.5400000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,443.7584,0.0,0
+Apple,MacBook Air,Intel Core i5 1.6GHz,8GB,128GB Flash Storage,Mac OS X,13.3,1164.94,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,848.0,0.0,0
+Dell,Latitude 5590,Intel Core i7 8650U 1.9GHz,8GB,256GB SSD + 256GB SSD,Windows 10,15.6,1375.88,0.0,0
+Hp,ProBook 470,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,17.3,949.76,0.0,0
+Chuwi,"LapBook 15.6""",Intel Atom x5-Z8300 1.44GHz,4GB,64GB Flash Storage,Windows 10,15.6,259.68940000000003,0.0,0
+Asus,E402WA-GA010T (E2-6110/2GB/32GB/W10),AMD E-Series E2-6110 1.5GHz,2GB,32GB Flash Storage,Windows 10,14.0,210.94,0.0,0
+Hp,17-ak001nv (A6-9220/4GB/500GB/Radeon,AMD A6-Series 9220 2.5GHz,4GB,500GB HDD,Windows 10,17.3,465.34000000000003,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,13.3,1981.14,0.0,0
+Apple,MacBook Air,Intel Core i5 1.6GHz,8GB,256GB Flash Storage,Mac OS X,13.3,1057.88,0.0,0
+Lenovo,IdeaPad 120S-14IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,64GB Flash Storage,Windows 10,14.0,263.94,0.0,0
+Acer,Aspire 3,Intel Core i3 7130U 2.7GHz,4GB,1TB HDD,Linux,15.6,389.02000000000004,0.0,0
+Dell,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1037.74,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,518.0114,0.0,0
+Hp,ProBook 450,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,931.74,0.0,0
+Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Intel Core i3 6006U 2GHz,4GB,1TB HDD,Linux,15.6,412.34000000000003,0.0,0
+Dell,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1588.94,0.0,0
+Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Linux,15.6,554.3694,0.0,0
+Acer,Aspire A515-51G,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Windows 10,15.6,722.9200000000001,0.0,0
+Dell,Inspiron 7773,Intel Core i5 8250U 1.6GHz,12GB,1TB HDD,Windows 10,17.3,1058.94,0.0,0
+Apple,MacBook Pro,Intel Core i5 2.0GHz,8GB,256GB SSD,macOS,13.3,1504.14,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4GB,128GB SSD,No OS,15.6,391.14000000000004,0.0,0
+Asus,Rog Strix,AMD Ryzen 1700 3GHz,8GB,256GB SSD + 1TB HDD,Windows 10,17.3,1376.94,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,677.34,0.0,0
+Asus,X751NV-TY001T (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Windows 10,17.3,493.96000000000004,0.0,0
+Lenovo,Yoga Book,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Android,10.1,338.14000000000004,0.0,0
+Acer,Aspire A515-51G,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,891.46,0.0,0
+Hp,255 G6,AMD A6-Series 9220 2.5GHz,4GB,256GB SSD,Windows 10,15.6,422.3994,0.0,0
+Hp,ProBook 430,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,13.3,1169.18,0.0,0
+Acer,Aspire 3,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,15.6,407.04,0.0,0
+Dell,Inspiron 3576,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,813.8679999999999,0.0,0
+Hp,15-bs002nv (i3-6006U/4GB/128GB/FHD/W10),Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,15.6,465.34000000000003,0.0,0
+Asus,VivoBook Max,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,621.3614000000001,0.0,0
+Msi,GS73VR 7RG,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,17.3,2595.94,0.0,0
+Asus,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Intel Core i3 6006U 2GHz,4GB,256GB SSD,Linux,15.6,439.90000000000003,0.0,0
+Dell,Inspiron 5770,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,17.3,1376.94,0.0,0
+Dell,Vostro 5471,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,931.74,0.0,0
+Lenovo,IdeaPad 520S-14IKB,Intel Core i3 7130U 2.7GHz,8GB,256GB SSD,No OS,14.0,634.94,0.0,0
+Asus,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,997.46,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,731.4000000000001,0.0,0
+Asus,ZenBook Pro,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2101.98,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,465.01140000000004,0.0,0
+Hp,Stream 14-AX040wm,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB SSD,Windows 10,14.0,242.74,0.0,0
+Lenovo,V310-15ISK (i5-7200U/4GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,581.94,0.0,0
+Asus,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Linux,17.3,1005.94,0.0,0
+Microsoft,Surface Laptop,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10 S,13.5,1154.3400000000001,0.0,0
+Dell,Inspiron 5370,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1012.3000000000001,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,922.2,0.0,0
+Msi,GL72M 7RDX,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1160.7,0.0,0
+Acer,Aspire E5-475,Intel Core i3 6006U 2GHz,8GB,1TB HDD,Windows 10,14.0,412.34000000000003,0.0,0
+Asus,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,1005.94,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,8GB,2TB HDD,No OS,15.6,550.14,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,906.3000000000001,0.0,0
+Acer,Aspire A515-51G-32MX,Intel Core i3 7130U 2.7GHz,4GB,1TB HDD,Windows 10,15.6,561.8000000000001,0.0,0
+Hp,ProBook 470,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1035.6200000000001,0.0,0
+Dell,Latitude 5590,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,1161.9296000000002,0.0,0
+Apple,"MacBook 12""",Intel Core i5 1.3GHz,8GB,512GB SSD,macOS,12.0,1600.6000000000001,0.0,0
+Hp,ProBook 440,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,911.6,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD A6-Series 9220 2.5GHz,4GB,128GB SSD,Windows 10,15.6,422.94,0.0,0
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4GB,1TB HDD,Windows 10,15.6,418.70000000000005,0.0,0
+Dell,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1429.94,0.0,0
+Hp,Pavilion 15-CK000nv,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,740.94,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,634.9294,0.0,0
+Asus,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1535.94,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1747.94,0.0,0
+Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,AMD FX 9830P 3GHz,8GB,1TB HDD,Windows 10,15.6,740.94,0.0,0
+Acer,Aspire 5,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,15.6,730.34,0.0,0
+Hp,Probook 430,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,13.3,1268.8200000000002,0.0,0
+Dell,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1266.7,0.0,0
+Asus,Zenbook UX430UA,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1111.94,0.0,0
+Acer,Spin 5,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,897.82,0.0,0
+Dell,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Linux,15.6,635.894,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2GHz,4GB,256GB SSD,Linux,15.6,514.1,0.0,0
+Asus,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Intel Core i3 7100U 2.4GHz,6GB,256GB SSD,Windows 10,15.6,611.62,0.0,0
+Hp,Omen 15-ce007nv,Intel Core i7 7700HQ 2.8GHz,12GB,128GB SSD + 1TB HDD,Windows 10,15.6,1323.94,0.0,0
+Hp,15-bs017nv (i7-7500U/8GB/256GB/Radeon,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,762.14,0.0,0
+Hp,15-bw000nv (E2-9000e/4GB/500GB/Radeon,AMD E-Series E2-9000e 1.5GHz,4GB,500GB HDD,Windows 10,15.6,369.94,0.0,0
+Dell,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Linux,15.6,685.82,0.0,0
+Hp,Envy 13-ad009n,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1186.14,0.0,0
+Microsoft,Surface Laptop,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10 S,13.5,1420.4,0.0,0
+Hp,Pavilion 14-BK001nv,Intel Core i5 7200U 2.5GHz,6GB,256GB SSD,Windows 10,14.0,698.5400000000001,0.0,0
+Lenovo,Ideapad 310-15ISK,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,439.794,0.0,0
+Asus,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1264.5800000000002,0.0,0
+Msi,GP62M 7REX,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1376.94,0.0,0
+Lenovo,Thinkpad T470,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1568.8000000000002,0.0,0
+Asus,VivoBook S15,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1337.72,0.0,0
+Dell,XPS 13,Intel Core i7 7560U 2.4GHz,8GB,256GB SSD,Windows 10,13.3,1461.74,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1482.94,0.0,0
+Hp,Probook 440,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Windows 10,14.0,765.32,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1726.74,0.0,0
+Hp,Spectre x360,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1482.9294,0.0,0
+Hp,Probook 440,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,14.0,1149.04,0.0,0
+Dell,Inspiron 7570,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,1198.1498,0.0,0
+Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,17.3,597.84,0.0,0
+Asus,VivoBook S15,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,1185.0800000000002,0.0,0
+Acer,Spin 3,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Windows 10,15.6,507.74,0.0,0
+Msi,GS63VR 7RG,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,15.6,2375.9900000000002,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,No OS,15.6,666.74,0.0,0
+Hp,Probook 470,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,17.3,1347.26,0.0,0
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4GB,256GB SSD,Windows 10,15.6,478.06,0.0,0
+Hp,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,No OS,15.6,274.54,0.0,0
+Hp,Probook 440,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,14.0,860.72,0.0,0
+Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,AMD E-Series 6110 1.5GHz,4GB,64GB SSD,Windows 10 S,14.0,294.66940000000005,0.0,0
+Dell,Inspiron 5770,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,17.3,1479.76,0.0,0
+Hp,ProBook 470,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,17.3,983.6800000000001,0.0,0
+Dell,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,677.3294000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,475.94,0.0,0
+Acer,Swift 3,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,14.0,937.0400000000001,0.0,0
+Acer,Aspire A515-51G-37JS,Intel Core i3 7130U 2.7GHz,4GB,256GB SSD,Windows 10,15.6,606.32,0.0,0
+Hp,15-BS078nr (i7-7500U/8GB/1TB/W10),Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,633.88,0.0,0
+Hp,Probook 440,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,14.0,1047.28,0.0,0
+Lenovo,V110-15IAP (N3350/4GB/1TB/No,Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,No OS,15.6,267.50160000000005,0.0,0
+Asus,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,994.2800000000001,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,No OS,15.6,528.94,0.0,0
+Hp,Envy 13-AD007nv,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,13.3,740.94,0.0,0
+Acer,Aspire 5,Intel Core i3 7130U 2.7GHz,4GB,1TB HDD,Windows 10,17.3,694.3000000000001,0.0,0
+Lenovo,ThinkPad E480,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,1182.9812,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,No OS,15.6,921.1400000000001,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,638.12,0.0,0
+Hp,255 G6,AMD A6-Series 9220 2.5GHz,4GB,256GB SSD,Windows 10,15.6,391.14000000000004,0.0,0
+Asus,ZenBook UX430UA,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,14.0,1164.94,0.0,0
+Hp,EliteBook Folio,Intel Core M 6Y75 1.2GHz,8GB,512GB SSD,Windows 10,12.5,2134.84,0.0,0
+Asus,X541NA (N3350/4GB/1TB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Windows 10,15.6,364.64000000000004,0.0,0
+Msi,GE72MVR 7RG,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2150.7400000000002,0.0,0
+Acer,Aspire A315-51,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,473.82000000000005,0.0,0
+Dell,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,1324.2156,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8GB,1.0TB Hybrid,Windows 10,15.6,952.94,0.0,0
+Lenovo,V110-15IKB (i5-7200U/4GB/128GB/W10),Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10,15.6,527.88,0.0,0
+Msi,GE73VR 7RE,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2003.4,0.0,0
+Hp,EliteBook 840,Intel Core i5 7500U 2.7GHz,4GB,256GB SSD,Windows 10,14.0,1146.92,0.0,0
+Hp,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Intel Core i5 8250U 1.6GHz,6GB,256GB SSD,Windows 10,15.6,656.14,0.0,0
+Lenovo,Yoga 520-14IKB,Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Windows 10,14.0,666.74,0.0,0
+Asus,ZenBook Flip,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1393.9,0.0,0
+Dell,Inspiron 5579,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,1111.94,0.0,0
+Toshiba,Satellite Pro,Intel Core i3 6006U 2.2GHz,4GB,500GB HDD,Windows 10,15.6,473.82000000000005,0.0,0
+Asus,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,4GB,1TB HDD,Windows 10,15.6,427.18,0.0,0
+Acer,Aspire A517-51G,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Windows 10,17.3,853.3000000000001,0.0,0
+Dell,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,771.6800000000001,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD,Windows 10,15.6,1143.74,0.0,0
+Acer,Aspire A315-31,Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Windows 10,15.6,368.88,0.0,0
+Msi,GE63VR 7RE,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1906.94,0.0,0
+Acer,Aspire 3,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Windows 10,15.6,385.3206,0.0,0
+Dell,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1124.1194,0.0,0
+Acer,Aspire A517-51G,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,17.3,905.24,0.0,0
+Hp,ProBook 430,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Windows 10,13.3,799.24,0.0,0
+Huawei,MateBook X,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.0,1429.94,0.0,0
+Hp,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Intel Core i5 7200U 2.5GHz,6GB,2TB HDD,Windows 10,17.3,740.94,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD A6-Series 9220 2.9GHz,4GB,500GB HDD,No OS,15.6,327.54,0.0,0
+Toshiba,Satellite Pro,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,15.6,518.34,0.0,0
+Hp,ProBook 470,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,17.3,978.38,0.0,0
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,Windows 10,15.6,486.54,0.0,0
+Acer,Aspire A315-51,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,15.6,475.94,0.0,0
+Msi,GT80S 6QF-074US,Intel Core i7 6920HQ 2.9GHz,32GB,512GB SSD + 1TB HDD,Windows 10,18.4,2966.94,0.0,0
+Lenovo,V310-15IKB (i5-7200U/8GB/1TB,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,861.7800000000001,0.0,0
+Hp,Spectre x360,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1588.94,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 2TB HDD,Linux,15.6,1111.94,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1482.94,0.0,0
+Lenovo,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,13.9,1959.94,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,15.6,840.58,0.0,0
+Xiaomi,Mi Notebook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,No OS,15.6,1270.94,0.0,0
+Dell,Inspiron 7773,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,17.3,1641.94,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2540.82,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,No OS,15.6,825.74,0.0,0
+Acer,Swift 7,Intel Core i5 7Y54 1.2GHz,8GB,256GB SSD,Windows 10,13.3,1048.3400000000001,0.0,0
+Dell,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1150.1000000000001,0.0,0
+Lenovo,Thinkpad Yoga,Intel Core i7 7500U 2.7GHz,16GB,1TB SSD,Windows 10,14.0,2993.44,0.0,0
+Vero,K147 (N3350/4GB/32GB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,275.6,0.0,0
+Xiaomi,Mi Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,No OS,13.3,1059.894,0.0,0
+Lenovo,IdeaPad 320-17IKBR,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,No OS,17.3,739.88,0.0,0
+Dell,Inspiron 5379,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,13.3,889.34,0.0,0
+Hp,ProBook 470,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,17.3,968.84,0.0,0
+Razer,Blade Pro,Intel Core i7 7820HK 2.9GHz,32GB,1TB SSD,Windows 10,17.3,6464.9400000000005,0.0,0
+Hp,ProBook 430,Intel Core i5 8250U 1.6GHz,8GB,512GB SSD,Windows 10,13.3,1016.5400000000001,0.0,0
+Hp,Omen 17-W295,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1461.74,0.0,0
+Hp,Probook 470,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,17.3,1107.7,0.0,0
+Dell,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD + 1TB HDD,Windows 10,15.6,1955.7,0.0,0
+Lenovo,V110-15ISK (i5-6200U/4GB/128GB/W10),Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,15.6,522.58,0.0,0
+Acer,Aspire E5-576G,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,786.5200000000001,0.0,0
+Lenovo,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD + 1TB HDD,Windows 10,15.6,1853.94,0.0,0
+Dell,Precision 7520,Intel Xeon E3-1505M V6 3GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,3238.3,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,No OS,15.6,1481.88,0.0,0
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Windows 10,15.6,465.34000000000003,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,2065.94,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1535.94,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,632.82,0.0,0
+Acer,Aspire 7,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Linux,15.6,825.74,0.0,0
+Asus,ROG GL703VD-GC028T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1491.42,0.0,0
+Hp,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Intel Core i3 6006U 2GHz,4GB,500GB HDD,No OS,15.6,369.94,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,No OS,15.6,581.94,0.0,0
+Huawei,MateBook X,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,13.0,1588.94,0.0,0
+Dell,Inspiron 5370,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,987.7928,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,No OS,17.3,624.34,0.0,0
+Hp,Probook 440,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,14.0,1092.8600000000001,0.0,0
+Dell,Latitude 5490,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,1217.94,0.0,0
+Dell,Inspiron 5379,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,13.3,1355.74,0.0,0
+Dell,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Linux,15.6,717.9910000000001,0.0,0
+Lenovo,Yoga 520-14IKB,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,952.94,0.0,0
+Toshiba,Portege Z30-C-16L,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1444.78,0.0,0
+Hp,ProBook 450,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,15.6,841.64,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2603.7204,0.0,0
+Acer,Aspire E5-576G,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,881.9200000000001,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16GB,1TB HDD,Windows 10,15.6,910.5506,0.0,0
+Asus,Vivobook X541UV-DM1217T,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,815.14,0.0,0
+Asus,K756UX-T4340T (i5-7200U/8GB/500GB,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD + 500GB HDD,Windows 10,17.3,944.46,0.0,0
+Hp,ZBook 15u,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,1345.14,0.0,0
+Asus,Pro P2540UA-XO0198T,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,15.6,422.92940000000004,0.0,0
+Hp,15-rb013nv (E2-9000e/4GB/500GB/W10),AMD E-Series 9000e 1.5GHz,4GB,500GB HDD,Windows 10,15.6,349.8,0.0,0
+Lenovo,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1588.94,0.0,0
+Dell,Vostro 5468,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,910.5400000000001,0.0,0
+Acer,Aspire R7,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,730.34,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Linux,15.6,952.94,0.0,0
+Acer,Aspire A315-51,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Linux,15.6,413.40000000000003,0.0,0
+Asus,X555QG-DM242T (A10-9620P/4GB/1TB,AMD A10-Series A10-9620P 2.5GHz,4GB,128GB SSD + 1TB HDD,Windows 10,15.6,609.5,0.0,0
+Asus,ROG G703VI-E5062T,Intel Core i7 7820HK 2.9GHz,32GB,512GB SSD + 1TB HDD,Windows 10,17.3,4123.400000000001,0.0,0
+Acer,Nitro AN515-51,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,896.76,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,8GB,128GB SSD,Windows 10,15.6,624.34,0.0,0
+Asus,VivoBook Pro,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1213.7,0.0,0
+Asus,F756UX-T4201D (i7-7500U/8GB/128GB,Intel Core i7 7500U 2.7GHz,8GB,128GB SSD + 1TB HDD,No OS,17.3,942.34,0.0,0
+Dell,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,931.74,0.0,0
+Lenovo,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.9,1143.74,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 2TB HDD,Windows 10,15.6,1044.1000000000001,0.0,0
+Hp,15-bs015dx (i5-7200U/8GB/1TB/W10),Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,592.5400000000001,0.0,0
+Asus,Rog G701VIK-BA060T,Intel Core i7 7820HK 2.9GHz,16GB,256GB SSD,Windows 10,17.3,3178.94,0.0,0
+Hp,ProBook 430,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Windows 10,13.3,715.5,0.0,0
+Apple,MacBook Pro,Intel Core i5 3.1GHz,8GB,512GB SSD,macOS,13.3,2162.4,0.0,0
+Dell,Inspiron 5579,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,15.6,868.1400000000001,0.0,0
+Asus,ROG G752VSK-GC493T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1906.94,0.0,0
+Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,4GB,1TB HDD,Windows 10,15.6,497.14000000000004,0.0,0
+Lenovo,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,13.9,1959.94,0.0,0
+Acer,Aspire 5,Intel Core i3 7130U 2.7GHz,4GB,256GB SSD,Windows 10,17.3,744.12,0.0,0
+Dell,Vostro 5370,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1005.94,0.0,0
+Hp,15-BW094nd (A6-9220/8GB/128GB/W10),AMD A6-Series A6-9220 2.5GHz,8GB,128GB SSD,Windows 10,15.6,472.654,0.0,0
+Hp,Envy 17-U275cl,Intel Core i7 8550U 1.8GHz,16GB,1TB HDD,Windows 10,17.3,1122.54,0.0,0
+Msi,GT73EVR 7RE,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,2648.94,0.0,0
+Lenovo,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,8GB,512GB SSD,Windows 10,15.6,1800.94,0.0,0
+Dell,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1210.52,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4GB,256GB SSD,No OS,15.6,470.64000000000004,0.0,0
+Hp,ProBook 450,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Windows 10,15.6,765.32,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,696.4200000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,598.9,0.0,0
+Dell,Inspiron 5579,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,846.94,0.0,0
+Asus,ZenBook Flip,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD + 512GB SSD,Windows 10,13.3,1588.94,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,No OS,15.6,495.02000000000004,0.0,0
+Hp,Probook 470,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,17.3,1079.0800000000002,0.0,0
+Lenovo,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,932.8000000000001,0.0,0
+Apple,MacBook Pro,Intel Core i5 2.9GHz,8GB,512GB SSD,macOS,13.3,2076.434,0.0,0
+Asus,Rog Strix,AMD Ryzen 1700 3GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1641.94,0.0,0
+Dell,Inspiron 3576,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Linux,15.6,779.1742,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 6600U 2.6GHz,16GB,512GB SSD,Windows 10,14.0,2648.94,0.0,0
+Toshiba,Satellite Pro,Intel Core i7 6500U 2.5GHz,8GB,500GB HDD,Windows 10,15.6,860.72,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,12GB,1TB HDD,Windows 10,15.6,755.8542000000001,0.0,0
+Dell,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Linux,17.3,1164.94,0.0,0
+Acer,Aspire A515-51G,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,15.6,789.7,0.0,0
+Lenovo,IdeaPad 320-17ISK,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,17.3,518.34,0.0,0
+Lenovo,IdeaPad 320-17IKBR,Intel Core i7 8550U 1.8GHz,8GB,2TB HDD,No OS,17.3,899.94,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i7 7500U 2.7GHz,6GB,128GB SSD + 1TB HDD,Windows 10,17.3,910.5400000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Linux,15.6,453.68,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,878.74,0.0,0
+Lenovo,Ideapad 320-15IKBN,Intel Core i5 7200U 2.5GHz,6GB,256GB SSD,Windows 10,15.6,613.74,0.0,0
+Acer,Aspire A517-51G,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,1008.0600000000001,0.0,0
+Acer,SP315-51 (i7-7500U/12GB/1TB/FHD/W10),Intel Core i7 7500U 2.7GHz,12GB,1TB HDD,Windows 10,15.6,698.5400000000001,0.0,0
+Lenovo,Thinkpad T570,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1162.8200000000002,0.0,0
+Asus,VivoBook S15,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1035.6200000000001,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1249.74,0.0,0
+Lenovo,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,No OS,15.6,698.5506,0.0,0
+Acer,Chromebook C910-C2ST,Intel Celeron Dual Core 3205U 1.5GHz,2GB,16GB SSD,Chrome OS,15.6,210.94,0.0,0
+Asus,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,17.3,1258.22,0.0,0
+Hp,17-BS037cl (i3-6006U/8GB/1TB/W10),Intel Core i3 6006U 2GHz,8GB,1TB HDD,Windows 10,17.3,518.34,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1938.74,0.0,0
+Lenovo,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,783.34,0.0,0
+Lenovo,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,1376.94,0.0,0
+Acer,Aspire A715-71G,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Linux,15.6,1037.74,0.0,0
+Dell,Precision 7720,Intel Core i7 7820HQ 2.9GHz,16GB,256GB SSD,Windows 10,17.3,3057.9516000000003,0.0,0
+Lenovo,IdeaPad 310-15ABR,AMD A10-Series 9600P 2.4GHz,6GB,1TB HDD,Windows 10,15.6,528.94,0.0,0
+Asus,ZenBook UX530UQ-PRO,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,15.6,1556.0800000000002,0.0,0
+Asus,VivoBook S14,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,14.0,539.5400000000001,0.0,0
+Asus,Rog GL702VS-GC095T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2249.32,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,6GB,1TB HDD,Windows 10,17.3,687.94,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,8GB,2TB HDD,No OS,15.6,581.94,0.0,0
+Asus,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1340.9,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,No OS,15.6,381.5894,0.0,0
+Hp,EliteBook x360,Intel Core i7 7600U 2.8GHz,16GB,256GB SSD,Windows 10,13.3,2093.5,0.0,0
+Toshiba,Satellite Pro,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1105.5800000000002,0.0,0
+Lenovo,IdeaPad 320-15IKB,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,868.1400000000001,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,497.14000000000004,0.0,0
+Lenovo,IdeaPad 720S-13IKB,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1058.94,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,16GB,1TB SSD,Windows 10,13.3,2648.94,0.0,0
+Msi,GE63VR 7RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2224.94,0.0,0
+Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),AMD A8-Series 7410 2.2GHz,8GB,256GB SSD,Windows 10,15.6,497.14000000000004,0.0,0
+Asus,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,2GB,32GB Flash Storage,Windows 10,11.6,291.5,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,894.6400000000001,0.0,0
+Hp,Spectre x360,Intel Core i7 8550U 1.8GHz,16GB,1TB SSD,Windows 10,13.3,2595.94,0.0,0
+Lenovo,ThinkPad 13,Intel Celeron Dual Core 3855U 1.6GHz,4GB,16GB Flash Storage,Chrome OS,13.3,487.494,0.0,0
+Hp,ProBook 640,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1038.8,0.0,0
+Acer,TravelMate B,Intel Pentium Quad Core N3710 1.6GHz,4GB,128GB Flash Storage,Windows 10,11.6,514.1,0.0,0
+Hp,Elitebook 840,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1369.52,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,17.3,624.34,0.0,0
+Asus,ZenBook UX410UA-GV183T,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1159.64,0.0,0
+Hp,ProBook 450,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Windows 10,15.6,956.12,0.0,0
+Acer,Aspire 5,AMD A12-Series 9720P 2.7GHz,8GB,256GB SSD,Windows 10,15.6,698.5400000000001,0.0,0
+Lenovo,IdeaPad 120S-14IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,309.52000000000004,0.0,0
+Acer,Aspire E5-575,Intel Core i5 7200U 2.5GHz,6GB,1TB HDD,Windows 10,15.6,581.94,0.0,0
+Asus,VivoBook S15,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1112.8940000000002,0.0,0
+Hp,Elitebook 820,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,12.5,1415.1000000000001,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,32GB,1TB SSD,Windows 10,15.6,2797.34,0.0,0
+Msi,GL72M 7REX,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD + 1TB HDD,Windows 10,17.3,1270.94,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,999.58,0.0,0
+Asus,UX510UX-CN269T (i7-7500U/8GB/256GB,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD + 1TB HDD,Windows 10,14.0,1414.04,0.0,0
+Lenovo,V310-15ISK (i3-6006U/4GB/1TB/FHD/W10),Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,475.94,0.0,0
+Asus,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1058.94,0.0,0
+Hp,EliteBook 840,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1344.0800000000002,0.0,0
+Dell,Inspiron 7570,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1111.94,0.0,0
+Hp,Elitebook 850,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1212.64,0.0,0
+Asus,X541NA (N3350/4GB/1TB/Linux),Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Linux,15.6,291.48940000000005,0.0,0
+Dell,Inspiron 7570,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,1211.315,0.0,0
+Dell,Inspiron 3552,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Linux,15.6,291.394,0.0,0
+Lenovo,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,12GB,2TB HDD,Windows 10,15.6,952.94,0.0,0
+Hp,ProBook 450,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,Windows 10,15.6,758.96,0.0,0
+Lenovo,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,13.9,2224.94,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1673.74,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,15.6,1196.74,0.0,0
+Hp,Stream 14-AX001nv,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Windows 10,14.0,295.74,0.0,0
+Dell,Latitude 5590,Intel Core i7 8650U 1.9GHz,16GB,512GB SSD + 256GB SSD,Windows 10,15.6,1704.4376000000002,0.0,0
+Asus,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,11.6,397.5,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,15.6,702.7800000000001,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2149.0652,0.0,0
+Hp,Elitebook 850,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1382.24,0.0,0
+Msi,GP72MVR 7RFX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1493.54,0.0,0
+Hp,Zbook 15,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1842.5662,0.0,0
+Toshiba,Tecra A50-C-21G,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Windows 10,15.6,1487.18,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 2TB HDD,Windows 10,15.6,1029.154,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,No OS,15.6,341.30940000000004,0.0,0
+Dell,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Windows 10,15.6,1058.94,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8GB,2TB HDD,Windows 10,15.6,590.8122000000001,0.0,0
+Dell,Latitude 7480,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1512.6200000000001,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,465.34000000000003,0.0,0
+Asus,Zenbook UX410UA-GV027T,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1001.7,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,6GB,128GB SSD + 1TB HDD,Windows 10,17.3,762.14,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,677.34,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,8GB,256GB SSD,No OS,15.6,528.94,0.0,0
+Hp,15-AY023na (N3710/8GB/2TB/W10),Intel Pentium Quad Core N3710 1.6GHz,8GB,2TB HDD,Windows 10,15.6,412.34000000000003,0.0,0
+Dell,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1150.1000000000001,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,No OS,15.6,857.5400000000001,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,952.94,0.0,0
+Hp,Elitebook 1040,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1855.0,0.0,0
+Asus,ZenBook Flip,Intel Core i7 7500U 2.7GHz,12GB,512GB SSD + 2TB HDD,Windows 10,15.6,1164.94,0.0,0
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4GB,128GB SSD,Windows 10,15.6,451.56,0.0,0
+Asus,Rog Strix,AMD Ryzen 1700 3GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2330.94,0.0,0
+Lenovo,IdeaPad 110-17ACL,AMD A8-Series 7410 2.2GHz,4GB,128GB SSD,Windows 10,17.3,518.34,0.0,0
+Dell,Inspiron 5379,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,921.1506,0.0,0
+Hp,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),AMD A9-Series 9420 3GHz,4GB,256GB SSD,Windows 10,15.6,518.3294000000001,0.0,0
+Lenovo,Yoga 11e,Intel Celeron Quad Core N3450 1.1GHz,4GB,128GB SSD,Windows 10,11.6,586.1800000000001,0.0,0
+Dell,Inspiron 3552,Intel Celeron Dual Core N3060 1.60GHz,4GB,500GB HDD,Windows 10,15.6,327.54,0.0,0
+Asus,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,303.16,0.0,0
+Acer,Aspire 7,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Linux,15.6,896.76,0.0,0
+Hp,Omen 17-w212nv,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1262.46,0.0,0
+Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Intel Core i3 6006U 2GHz,4GB,128GB SSD,No OS,15.6,427.71000000000004,0.0,0
+Asus,ROG Strix,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1754.3000000000002,0.0,0
+Lenovo,IdeaPad 720S-14IKB,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1164.94,0.0,0
+Asus,Zenbook Flip,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,13.3,1853.8340000000003,0.0,0
+Lenovo,Thinkpad X1,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,14.0,2418.92,0.0,0
+Lenovo,Ideapad 510S-13IKB,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,13.3,581.94,0.0,0
+Dell,Precision 3510,Intel Core i5 6440HQ 2.6GHz,8GB,500GB HDD,Windows 10,15.6,1451.14,0.0,0
+Dell,Precision 5520,Intel Core i7 6820HQ 2.7GHz,8GB,256GB SSD,Windows 10,15.6,2263.1,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,2659.54,0.0,0
+Asus,Rog GL753VD-GC042T,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,17.3,1101.3400000000001,0.0,0
+Asus,Rog GL753VE-GC070T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1686.46,0.0,0
+Acer,Aspire 5,Intel Core i5 8250U 1.6GHz,12GB,1TB HDD,Windows 10,15.6,735.6294,0.0,0
+Msi,Leopard GP72M,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,17.3,1429.94,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Linux,15.6,825.6022,0.0,0
+Hp,15-BW004nv (A9-9420/4GB/256GB/Radeon,AMD A9-Series 9420 3GHz,4GB,256GB SSD,Windows 10,15.6,528.94,0.0,0
+Lenovo,ThinkPad E580,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,1303.3336,0.0,0
+Lenovo,ThinkPad L470,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,994.2800000000001,0.0,0
+Dell,Precision M5520,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,2874.7200000000003,0.0,0
+Lenovo,Thinkpad X1,Intel Core i7 7500U 2.7GHz,16GB,1TB SSD,Windows 10,14.0,2782.5,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Windows 10,15.6,324.36,0.0,0
+Asus,FX753VD-GC461T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1620.74,0.0,0
+Lenovo,ThinkPad E580,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,1213.17,0.0,0
+Acer,Aspire 7,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Linux,15.6,931.74,0.0,0
+Msi,GE73VR 7RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2383.94,0.0,0
+Asus,Zenbook 3,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,14.0,1985.38,0.0,0
+Toshiba,Portege Z30-C-16P,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Windows 10,13.3,1851.8200000000002,0.0,0
+Dell,Latitude 7480,Intel Core i7 7600U 2.8GHz,8GB,512GB SSD,Windows 10,14.0,1780.8000000000002,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,433.54,0.0,0
+Lenovo,Lenovo IdeaPad,Intel Celeron Dual Core N3350 1.1GHz,2GB,32GB Flash Storage,Windows 10,11.6,322.717,0.0,0
+Lenovo,ThinkPad P51,Intel Core i7 7700HQ 2.8GHz,8GB,512GB SSD,Windows 10,15.6,2040.5,0.0,0
+Lenovo,Thinkpad T470p,Intel Core i7 7700HQ 2.8GHz,8GB,512GB SSD,Windows 10,14.0,2059.58,0.0,0
+Hp,15-BS028nv (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,497.14000000000004,0.0,0
+Acer,Aspire R7,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,836.3506,0.0,0
+Asus,ZenBook Flip,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,983.6800000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Linux,15.6,634.8340000000001,0.0,0
+Dell,Latitude 3380,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,13.3,730.34,0.0,0
+Hp,EliteBook 1040,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1590.0,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,572.3470000000001,0.0,0
+Lenovo,ThinkPad E480,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,14.0,1288.3028000000002,0.0,0
+Lenovo,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2012.94,0.0,0
+Chuwi,LapBook 12.3,Intel Celeron Quad Core N3450 1.1GHz,6GB,64GB Flash Storage,Windows 10,12.3,475.94,0.0,0
+Hp,ProBook 650,Intel Core i7 7820HQ 2.9GHz,8GB,256GB SSD,Windows 10,15.6,1512.6200000000001,0.0,0
+Asus,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,Linux,15.6,632.82,0.0,0
+Dell,Alienware 17,Intel Core i7 7820HK 2.9GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2966.94,0.0,0
+Dell,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1228.54,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD + 2TB HDD,Windows 10,15.6,1210.9440000000002,0.0,0
+Dell,Latitude 5480,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Linux,14.0,1164.94,0.0,0
+Hp,Omen 17-w207nv,Intel Core i7 7700HQ 2.8GHz,12GB,256GB SSD + 1TB HDD,Windows 10,17.3,2118.94,0.0,0
+Mediacom,FlexBook Edge,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB SSD,Windows 10,11.6,316.94,0.0,0
+Samsung,Chromebook 3,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Chrome OS,11.6,285.14,0.0,0
+Lenovo,Thinkpad 13,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1070.6000000000001,0.0,0
+Lenovo,IdeaPad 320s-14IKB,Intel Core i3 7130U 2.7GHz,4GB,128GB SSD,Windows 10,14.0,634.94,0.0,0
+Lenovo,Thinkpad T570,Intel Core i7 7600U 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2591.7000000000003,0.0,0
+Lenovo,Thinkpad P51,Intel Core i7 7820HQ 2.9GHz,16GB,512GB SSD,Windows 10,15.6,2595.94,0.0,0
+Asus,Rog Strix,AMD Ryzen 1600 3.2GHz,8GB,256GB SSD + 1TB HDD,Windows 10,17.3,1796.7,0.0,0
+Hp,15-ra044nv (N3060/4GB/500GB/W10),Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Windows 10,15.6,367.82,0.0,0
+Google,Pixelbook (Core,Intel Core i7 7Y75 1.3GHz,16GB,512GB SSD,Chrome OS,12.3,2330.94,0.0,0
+Lenovo,ThinkPad T470s,Intel Core i7 7500U 2.7GHz,24GB,512GB SSD,Windows 10,14.0,2524.92,0.0,0
+Asus,VivoBook Max,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Linux,15.6,592.5400000000001,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD A6-Series 9220 2.5GHz,8GB,1TB HDD,Windows 10,17.3,550.14,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Windows 10,15.6,793.94,0.0,0
+Lenovo,ThinkPad X270,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1514.74,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4GB,128GB SSD,Windows 10,15.6,369.94,0.0,0
+Hp,Omen 15-AX205na,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1164.94,0.0,0
+Dell,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8GB,256GB SSD,Windows 10,14.0,1249.74,0.0,0
+Acer,Aspire ES1-572,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Linux,15.6,468.30800000000005,0.0,0
+Dell,Precision 3520,Intel Xeon E3-1505M V6 3GHz,8GB,64GB Flash Storage + 1TB HDD,Windows 10,15.6,2112.58,0.0,0
+Msi,GV62 7RD-1686NL,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1089.4044000000001,0.0,0
+Microsoft,Surface Laptop,Intel Core i7 7660U 2.5GHz,16GB,512GB SSD,Windows 10 S,13.5,2744.34,0.0,0
+Hp,15-bs024nv (i5-7200U/8GB/128GB/W10),Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,15.6,624.34,0.0,0
+Dell,Precision 3520,Intel Core i7 6820HQ 2.7GHz,16GB,256GB SSD,Windows 10,15.6,2093.5,0.0,0
+Hp,ProBook 650,Intel Core i7 7820HQ 2.9GHz,8GB,512GB SSD,Windows 10,15.6,1626.0400000000002,0.0,0
+Lenovo,ThinkPad T470,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1425.7,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1037.74,0.0,0
+Dell,Inspiron 3168,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Windows 10,11.6,507.74,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.7GHz,8GB,1TB HDD,Windows 10,17.3,2168.76,0.0,0
+Microsoft,Surface Laptop,Intel Core M m3-7Y30 2.2GHz,4GB,128GB SSD,Windows 10 S,13.5,1048.3400000000001,0.0,0
+Microsoft,Surface Laptop,Intel Core i7 7660U 2.5GHz,8GB,256GB SSD,Windows 10 S,13.5,1906.94,0.0,0
+Hp,17-BS092ND (i3-6006U/8GB/256GB/W10),Intel Core i3 6006U 2GHz,8GB,256GB SSD,Windows 10,17.3,678.294,0.0,0
+Acer,Aspire E5-576G,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,576.64,0.0,0
+Acer,TravelMate B,Intel Celeron Dual Core N3060 1.6GHz,4GB,128GB SSD,Windows 10,11.6,461.1,0.0,0
+Asus,Pro P2540UA-AB51,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,793.94,0.0,0
+Lenovo,IdeaPad 510s-14IKB,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,No OS,14.0,846.94,0.0,0
+Lenovo,Thinkpad P51,Intel Core i7 7820HQ 2.9GHz,8GB,256GB SSD,Windows 10,15.6,2215.4,0.0,0
+Asus,X541NA-PD1003Y (N4200/4GB/500GB/W10),Intel Pentium Quad Core N4200 1.1GHz,4GB,500GB HDD,Windows 10,15.6,322.24,0.0,0
+Acer,Aspire 5,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,497.14000000000004,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,2TB HDD,Windows 10,15.6,804.5400000000001,0.0,0
+Hp,Omen 17-an006nv,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Windows 10,17.3,1800.94,0.0,0
+Lenovo,Thinkpad T460s,Intel Core i7 6600U 2.6GHz,12GB,256GB SSD,Windows 10,14.0,1969.48,0.0,0
+Hp,Spectre x360,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,13.3,2118.94,0.0,0
+Hp,ZBook 15u,Intel Core i5 7200U 2.5GHz,8GB,500GB HDD,Windows 10,15.6,1223.24,0.0,0
+Google,Pixelbook (Core,Intel Core i5 7Y57 1.2GHz,8GB,128GB SSD,Chrome OS,12.3,1351.5,0.0,0
+Dell,Latitude 7390,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1952.361,0.0,0
+Asus,ZenBook Pro,Intel Core i7 6700HQ 2.6GHz,12GB,128GB SSD + 1TB HDD,Windows 10,15.6,1376.94,0.0,0
+Dell,Latitude E5470,Intel Core i3 6100U 2.3GHz,8GB,128GB SSD,Windows 10,14.0,784.4000000000001,0.0,0
+Dell,Precision M5520,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,2552.48,0.0,0
+Lenovo,Thinkpad T470,Intel Core i5 7200U 2.5GHz,8GB,180GB SSD,Windows 10,14.0,1445.8400000000001,0.0,0
+Dell,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,15.6,715.5,0.0,0
+Toshiba,Portege X30-D-10J,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1772.3200000000002,0.0,0
+Dell,Inspiron 7570,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,15.6,1337.72,0.0,0
+Dell,Vostro 3568,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,15.6,621.796,0.0,0
+Hp,ProBook 430,Intel Core i5 8250U 1.6GHz,4GB,128GB SSD,Windows 10,13.3,769.5600000000001,0.0,0
+Chuwi,"Lapbook 15,6",Intel Atom x5-Z8350 1.44GHz,4GB,64GB Flash Storage,Windows 10,15.6,263.834,0.0,0
+Lenovo,ThinkPad E570,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Windows 10,15.6,598.9,0.0,0
+Lenovo,ThinkPad E480,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,14.0,1111.94,0.0,0
+Dell,Precision 3520,Intel Core i7 6820HQ 2.7GHz,16GB,512GB SSD,Windows 10,15.6,2478.28,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,2012.94,0.0,0
+Lenovo,Thinkpad X270,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,12.5,1905.88,0.0,0
+Asus,Zenbook UX390UA,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,12.5,2067.0,0.0,0
+Lenovo,Thinkpad E570,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1072.7094,0.0,0
+Toshiba,Portege X30-D-10L,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,Windows 10,13.3,2966.94,0.0,0
+Asus,VivoBook Pro,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1431.0,0.0,0
+Acer,Aspire 5,AMD A10-Series 9620P 2.5GHz,8GB,1TB HDD,Windows 10,15.6,613.74,0.0,0
+Asus,Rog G752VL-UH71T,Intel Core i7 6700HQ 2.6GHz,24GB,256GB SSD + 1TB HDD,Windows 10,17.3,1345.14,0.0,0
+Lenovo,Thinkpad X260,Intel Core i5 6200U 2.3GHz,8GB,180GB SSD,Windows 10,12.5,1164.94,0.0,0
+Lenovo,Ideapad 520-15IKBR,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,952.8340000000001,0.0,0
+Hp,EliteBook 840,Intel Core i7 7600U 2.8GHz,8GB,1TB SSD,Windows 10,14.0,1853.94,0.0,0
+Lenovo,ThinkPad 13,Intel Core i3 7100U 2.4GHz,8GB,256GB SSD,Windows 10,13.3,1005.94,0.0,0
+Lenovo,ThinkPad L570,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,965.6600000000001,0.0,0
+Asus,VivoBook E201NA,Intel Celeron Dual Core N3350 1.1GHz,4GB,64GB Flash Storage,Windows 10 S,11.6,360.40000000000003,0.0,0
+Hp,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,656.1294,0.0,0
+Lenovo,Yoga 920-13IKB,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.9,1694.94,0.0,0
+Lenovo,IdeaPad 320-14IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,500GB HDD,Windows 10,14.0,316.94,0.0,0
+Lenovo,Chromebook N23,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB SSD,Chrome OS,11.6,280.90000000000003,0.0,0
+Lenovo,ThinkPad 13,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1005.94,0.0,0
+Asus,ZenBook UX510UX-CN211T,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,1297.44,0.0,0
+Acer,Aspire A515-51G-59QF,Intel Core i5 8250U 1.6GHz,4GB,1TB HDD,Windows 10,15.6,649.7800000000001,0.0,0
+Hp,Envy 13-AB002nv,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,13.3,1402.38,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD + 1TB HDD,No OS,15.6,1217.94,0.0,0
+Dell,XPS 13,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,13.3,952.94,0.0,0
+Acer,Aspire A515-51G,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,Windows 10,15.6,677.34,0.0,0
+Dell,Vostro 5568,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,886.1600000000001,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,15.6,1292.3944000000001,0.0,0
+Xiaomi,Mi Notebook,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD,No OS,15.6,1483.9470000000001,0.0,0
+Asus,VivoBook E12,Intel Celeron Dual Core N3350 1.1GHz,2GB,32GB Flash Storage,Windows 10,11.6,259.7,0.0,0
+Hp,15-bs190od (i5-8250U/4GB/1TB/W10),Intel Core i5 8250U 1.6GHz,4GB,1TB HDD,Windows 10,15.6,552.7582000000001,0.0,0
+Asus,ROG Zephyrus,Intel Core i7 7700HQ 2.8GHz,24GB,512GB SSD,Windows 10,15.6,3146.0800000000004,0.0,0
+Hp,Probook 450,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,942.34,0.0,0
+Asus,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1594.24,0.0,0
+Lenovo,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,1482.94,0.0,0
+Hp,Spectre X360,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1482.94,0.0,0
+Dell,Latitude 5480,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1356.5138000000002,0.0,0
+Hp,ProBook 440,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,15.6,730.34,0.0,0
+Dell,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Linux,17.3,942.34,0.0,0
+Lenovo,ThinkPad L470,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,14.0,1420.4,0.0,0
+Lenovo,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,4GB,1TB HDD,Windows 10,15.6,846.94,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,8GB,2TB HDD,No OS,15.6,486.54,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,620.1,0.0,0
+Dell,Latitude 5580,Intel Core i5 7440HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1459.6200000000001,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,3193.5362,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 7200U 2.5GHz,8GB,500GB HDD,Windows 10,15.6,911.6,0.0,0
+Asus,Zenbook UX510UW-FI095T,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,1376.94,0.0,0
+Mediacom,SmartBook Edge,Intel Celeron Quad Core N3450 1.1GHz,4GB,32GB SSD,Windows 10,13.3,391.14000000000004,0.0,0
+Asus,ROG Strix,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1747.94,0.0,0
+Dell,Latitude 5580,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1451.14,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,15.6,845.2546,0.0,0
+Hp,250 G6,Intel Pentium Quad Core N3710 1.6GHz,4GB,256GB SSD,Windows 10,15.6,422.92940000000004,0.0,0
+Hp,Omen 15-ce006nv,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Windows 10,17.3,1906.94,0.0,0
+Lenovo,Thinkpad E470,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,910.5400000000001,0.0,0
+Dell,XPS 13,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1482.94,0.0,0
+Dell,Vostro 5468,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,14.0,780.0222,0.0,0
+Hp,Envy 13-AB020nr,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1213.7,0.0,0
+Acer,Aspire 7,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Linux,15.6,845.88,0.0,0
+Asus,VivoBook X540YA-XX519T,AMD E-Series 7110 1.8GHz,4GB,500GB HDD,Windows 10,15.6,369.94,0.0,0
+Hp,ProBook 450,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,15.6,747.83,0.0,0
+Lenovo,ThinkPad E470,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,832.1,0.0,0
+Lenovo,V310-15ISK (i5-6200U/4GB/1TB/FHD/No,Intel Core i5 6200U 2.3GHz,4GB,1TB HDD,No OS,15.6,490.09100000000007,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,420.82,0.0,0
+Lenovo,ThinkPad T570,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,15.6,1832.74,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Windows 10,15.6,528.94,0.0,0
+Dell,Latitude 5580,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1184.0094000000001,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2860.94,0.0,0
+Hp,17-X047na (i3-6006U/8GB/1TB/W10),Intel Core i3 6006U 2GHz,8GB,1TB HDD,Windows 10,17.3,576.799,0.0,0
+Hp,ProBook 470,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,17.3,1356.8000000000002,0.0,0
+Asus,A541NA-GO342 (N3350/4GB/500GB/Linux),Intel Celeron Dual Core N3350 1.1GHz,4GB,500GB HDD,Linux,15.6,237.44,0.0,0
+Mediacom,SmartBook 130,Intel Atom x5-Z8350 1.44GHz,4GB,32GB Flash Storage,Windows 10,13.3,270.3,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i7 7500U 2.7GHz,6GB,128GB SSD + 1TB HDD,Windows 10,17.3,1005.94,0.0,0
+Hp,15-bw007nv (A10-9620P/6GB/128GB/Radeon,AMD A10-Series A10-9620P 2.5GHz,6GB,128GB SSD,Windows 10,15.6,603.034,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,654.974,0.0,0
+Acer,Spin SP111-31,Intel Celeron Dual Core N3350 2.0GHz,4GB,32GB Flash Storage,Windows 10,11.6,369.94,0.0,0
+Lenovo,V330-15IKB (i3-7130U/4GB/128GB/FHD/W10),Intel Core i3 7130U 2.7GHz,4GB,128GB SSD,Windows 10,15.6,667.8000000000001,0.0,0
+Hp,EliteBook 1030,Intel Core M 6Y75 1.2GHz,16GB,512GB SSD,Windows 10,13.3,2082.9,0.0,0
+Lenovo,Thinkpad P71,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,17.3,3178.94,0.0,0
+Asus,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,889.34,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD,Windows 10,13.3,1694.94,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,4GB,500GB HDD,Windows 10,15.6,1016.5400000000001,0.0,0
+Fujitsu,Lifebook A557,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,783.34,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4GB,500GB HDD,Windows 10,15.6,364.64000000000004,0.0,0
+Lenovo,ThinkPad L470,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,1049.4,0.0,0
+Hp,ZBook 17,Intel Core i5 7440HQ 2.8GHz,8GB,500GB HDD,Windows 10,17.3,1972.6494,0.0,0
+Hp,14-am079na (N3710/8GB/2TB/W10),Intel Pentium Quad Core N3710 1.6GHz,8GB,2TB HDD,Windows 10,14.0,412.34000000000003,0.0,0
+Hp,15-cd005nv (A9-9420/6GB/256GB/Radeon,AMD A9-Series A9-9420 3GHz,6GB,256GB SSD,Windows 10,15.6,687.94,0.0,0
+Lenovo,Thinkpad E570,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,879.8000000000001,0.0,0
+Lenovo,V330-15IKB (i5-8250U/4GB/500GB/FHD/W10),Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Windows 10,15.6,726.1,0.0,0
+Mediacom,SmartBook 141,Intel Atom x5-Z8350 1.44GHz,4GB,32GB SSD,Windows 10,14.0,263.94,0.0,0
+Toshiba,Tecra X40-D-10H,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,1976.9,0.0,0
+Lenovo,IdeaPad Y910-17ISK,Intel Core i7 6820HK 2.7GHz,32GB,256GB SSD + 1TB HDD,Windows 10,17.3,2822.78,0.0,0
+Msi,GT73VR Titan,Intel Core i7 7820HK 2.9GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,2892.7400000000002,0.0,0
+Dell,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Linux,15.6,793.9506,0.0,0
+Mediacom,SmartBook Edge,Intel Celeron Quad Core N3450 1.1GHz,4GB,32GB SSD,Windows 10,14.0,412.34000000000003,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,8GB,500GB HDD,Windows 10,15.6,1069.0312000000001,0.0,0
+Hp,ProBook 430,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,13.3,762.14,0.0,0
+Dell,Latitude 5580,Intel Core i7 7600U 2.8GHz,16GB,256GB SSD,Windows 10,15.6,1629.6334000000002,0.0,0
+Dell,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Chrome OS,11.6,312.7,0.0,0
+Msi,GT80S 6QE,Intel Core i7 6820HK 2.7GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2489.94,0.0,0
+Hp,Omen 17-AN010nv,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1587.88,0.0,0
+Lenovo,Thinkpad T460s,Intel Core i7 6600U 2.6GHz,12GB,256GB SSD,Windows 10,14.0,1773.38,0.0,0
+Lenovo,Ideapad 320-15IKBR,Intel Core i7 8550U 1.8GHz,12GB,1TB HDD,Windows 10,15.6,645.5400000000001,0.0,0
+Asus,ROG Strix,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1876.2,0.0,0
+Asus,TP501UA-CJ131T (i5-7200U/8GB/1TB/W10),Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,783.34,0.0,0
+Lenovo,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,12GB,512GB SSD,Windows 10,15.6,1005.94,0.0,0
+Dell,Inspiron 3179,Intel Core M 7Y30 1.0GHz,4GB,128GB SSD,Windows 10,11.6,639.1800000000001,0.0,0
+Samsung,Notebook Odyssey,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1800.94,0.0,0
+Lenovo,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Intel Core i3 6006U 2GHz,4GB,500GB HDD,No OS,17.3,560.74,0.0,0
+Lenovo,IdeaPad 110-15ISK,Intel Core i3 6100U 2.3GHz,8GB,1TB HDD,Windows 10,15.6,486.54,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,13.3,2146.5,0.0,0
+Lenovo,Thinkpad T470p,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1562.44,0.0,0
+Dell,Latitude 5289,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1770.2,0.0,0
+Dell,Precision 3520,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1868.7800000000002,0.0,0
+Hp,EliteBook 850,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1292.14,0.0,0
+Hp,ProBook 450,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,15.6,708.5888000000001,0.0,0
+Acer,Aspire 1,Intel Celeron Quad Core N3450 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,348.74,0.0,0
+Msi,Laptop MSI,Intel Core i7 6820HK 2.7GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2330.94,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Linux,15.6,492.90000000000003,0.0,0
+Msi,GS63VR 7RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,15.6,2436.94,0.0,0
+Toshiba,Tecra Z50-C-144,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1482.94,0.0,0
+Lenovo,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,6GB,1TB HDD,Windows 10,15.6,597.84,0.0,0
+Lenovo,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1376.94,0.0,0
+Acer,Swift SF114-31-P5HY,Intel Pentium Quad Core N3710 1.6GHz,4GB,128GB Flash Storage,Windows 10,14.0,369.94,0.0,0
+Lenovo,Thinkpad P51,Intel Xeon E3-1535M v6 3.1GHz,32GB,1TB SSD,Windows 10,15.6,5192.9400000000005,0.0,0
+Dell,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,16GB,1TB HDD,Windows 10,15.6,931.7506000000001,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Linux,15.6,470.534,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Linux,15.6,380.54,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,4GB,500GB HDD,Linux,15.6,921.1400000000001,0.0,0
+Asus,FX753VD-GC007T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1238.0800000000002,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Linux,15.6,603.14,0.0,0
+Hp,EliteBook 850,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,15.6,1472.3400000000001,0.0,0
+Msi,GT62VR 7RE,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2403.9316000000003,0.0,0
+Acer,CB5-132T-C9KK (N3160/4GB/32GB/Chrome,Intel Celeron Quad Core N3160 1.6GHz,4GB,32GB Flash Storage,Chrome OS,11.6,401.74,0.0,0
+Hp,ProBook 650,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1191.44,0.0,0
+Lenovo,ThinkPad T470,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,14.0,1552.9,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,4GB,1TB HDD,Windows 10,15.6,822.5600000000001,0.0,0
+Fujitsu,LifeBook A557,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,846.94,0.0,0
+Hp,EliteBook 850,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 7,15.6,987.9200000000001,0.0,0
+Lenovo,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,952.94,0.0,0
+Mediacom,SmartBook 140,Intel Atom x5-Z8350 1.44GHz,2GB,32GB Flash Storage,Windows 10,14.0,253.34,0.0,0
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,No OS,15.6,496.08000000000004,0.0,0
+Asus,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,6GB,1TB HDD,Windows 10,13.3,677.3506,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,1929.2,0.0,0
+Asus,ZenBook 3,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,2014.0,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1567.74,0.0,0
+Lenovo,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Windows 10,15.6,878.74,0.0,0
+Lenovo,Ideapad 320-15ISK,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,613.74,0.0,0
+Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,8GB,1TB HDD,Windows 10,15.6,422.94,0.0,0
+Asus,VivoBook Pro,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Windows 10,15.6,961.0172,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1981.14,0.0,0
+Lenovo,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Windows 10,14.0,263.94,0.0,0
+Lenovo,Thinkpad Yoga,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1862.8652000000002,0.0,0
+Dell,XPS 15,Intel Core i7 7700HQ 2.8GHz,16GB,1TB SSD,Windows 10,15.6,2542.94,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1175.54,0.0,0
+Hp,17-AK091ND (A9-9420/8GB/1TB/W10),AMD A9-Series 9420 3GHz,8GB,1TB HDD,Windows 10,17.0,552.154,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,2597.0,0.0,0
+Asus,ROG GL553VE-FY022,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,No OS,15.6,1239.14,0.0,0
+Acer,Extensa EX2540,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,477.0,0.0,0
+Lenovo,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB Flash Storage,Windows 10,14.0,290.44,0.0,0
+Acer,Swift 3,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,974.1400000000001,0.0,0
+Razer,Blade Pro,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD,Windows 10,14.0,2754.94,0.0,0
+Toshiba,Portege Z30-C-16J,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,1285.78,0.0,0
+Lenovo,Thinkpad X270,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,12.5,1679.0400000000002,0.0,0
+Asus,ROG G701VI,Intel Core i7 6820HK 2.7GHz,32GB,512GB SSD,Windows 10,17.3,2966.94,0.0,0
+Acer,A715-71G-59DH (i5-7300HQ/8GB/1TB/GeForce,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Linux,15.6,751.5400000000001,0.0,0
+Dell,XPS 13,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1536.8940000000002,0.0,0
+Msi,GL62M 7REX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1263.308,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,500GB HDD,No OS,15.6,386.794,0.0,0
+Toshiba,Tecra A50-D-11M,Intel Core i5 7200U 2.5GHz,8GB,500GB HDD,Windows 10,15.6,1127.8400000000001,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Windows 10,15.6,974.1400000000001,0.0,0
+Dell,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD + 2TB HDD,Windows 10,15.6,1203.1000000000001,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1267.76,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32GB,512GB SSD + 1TB HDD,Windows 10,17.3,3336.2122,0.0,0
+Dell,Latitude E7470,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 10,14.0,1302.74,0.0,0
+Lenovo,Ideapad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,4GB,500GB HDD,Windows 10,15.6,444.14000000000004,0.0,0
+Lenovo,IdeaPad 320-15ISK,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,567.1,0.0,0
+Hp,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Intel Core i3 6006U 2GHz,6GB,1TB HDD,Windows 10,15.6,571.34,0.0,0
+Msi,GP72VR Leopard,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1575.9762,0.0,0
+Toshiba,Satellite Pro,Intel Core i3 6100U 2.1GHz,4GB,128GB SSD,Windows 10,15.6,527.88,0.0,0
+Dell,Latitude 3580,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,1012.3000000000001,0.0,0
+Hp,15-bs012nv (i7-7500U/8GB/1TB/Radeon,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,789.7,0.0,0
+Toshiba,Tecra Z50-D-10E,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1333.48,0.0,0
+Acer,Aspire 3,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Linux,15.6,436.72,0.0,0
+Microsoft,Surface Laptop,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Windows 10 S,13.5,1979.921,0.0,0
+Lenovo,V310-15ISK (i5-7200U/8GB/1TB,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,867.027,0.0,0
+Lenovo,Yoga 720-13IKB,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1096.04,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD E-Series E2-9000 2.2GHz,4GB,128GB SSD,Windows 10,15.6,369.94,0.0,0
+Hp,Pavilion X360,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,14.0,740.94,0.0,0
+Msi,GP62 7RDX,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1371.64,0.0,0
+Asus,Zenbook 3,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1203.1000000000001,0.0,0
+Hp,Chromebook X360,Intel Celeron Dual Core N3350 1.1GHz,8GB,64GB Flash Storage,Chrome OS,11.6,524.7,0.0,0
+Lg,Gram 15Z975,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,15.6,2436.94,0.0,0
+Acer,Aspire VX5-591G,Intel Core i5 7300HQ 2.5GHz,16GB,256GB SSD,Windows 10,15.6,1376.94,0.0,0
+Msi,GV62M 7RD,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1057.7740000000001,0.0,0
+Asus,L502NA-GO052T (N3350/4GB/128GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,128GB SSD,Windows 10,15.6,444.14000000000004,0.0,0
+Dell,Alienware 15,Intel Core i5 7300HQ 2.5GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,2174.06,0.0,0
+Hp,17-bs000nv I3,Intel Core i3 6006U 2GHz,4GB,256GB SSD,Windows 10,17.3,740.94,0.0,0
+Lenovo,Yoga 730,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Windows 10,13.3,1588.94,0.0,0
+Dell,Alienware 15,Intel Core i7 7820HK 2.9GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2982.5750000000003,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,649.3666000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,578.4102,0.0,0
+Hp,17-Y002nv (A10-9600P/6GB/2TB/Radeon,AMD A10-Series 9600P 2.4GHz,6GB,2TB HDD,Windows 10,17.3,603.14,0.0,0
+Lenovo,V110-15ISK (3855U/4GB/500GB/W10),Intel Celeron Dual Core 3855U 1.6GHz,4GB,500GB HDD,Windows 10,15.6,337.08000000000004,0.0,0
+Acer,Chromebook 14,Intel Celeron Dual Core 3855U 1.6GHz,4GB,32GB Flash Storage,Chrome OS,14.0,397.5,0.0,0
+Lenovo,IdeaPad 520s-14IKB,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,14.0,740.94,0.0,0
+Hp,ZBook 17,Intel Core i7 7700HQ 2.8GHz,8GB,500GB HDD,Windows 10,17.3,2022.4694000000002,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,2745.4,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1031.38,0.0,0
+Acer,TravelMate B117-M,Intel Celeron Dual Core N3050 1.6GHz,4GB,32GB Flash Storage,Windows 10,11.6,285.14,0.0,0
+Lenovo,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,1853.94,0.0,0
+Asus,Chromebook Flip,Intel Core M M3-6Y30 0.9GHz,4GB,64GB Flash Storage,Chrome OS,12.5,709.14,0.0,0
+Toshiba,Portege Z30T-C-133,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Windows 10,13.3,1989.6200000000001,0.0,0
+Hp,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,Windows 10,15.6,730.34,0.0,0
+Dell,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Windows 10,15.6,868.1400000000001,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD A9-Series 9420 2.9GHz,4GB,256GB SSD,Windows 10,15.6,422.94,0.0,0
+Lenovo,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,8GB,1TB HDD,Windows 10,15.6,454.74,0.0,0
+Lenovo,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,4GB,1TB HDD + 1TB HDD,Windows 10,15.6,658.7370000000001,0.0,0
+Lenovo,V310-15ISK (i3-6006U/4GB/500GB/No,Intel Core i3 6006U 2GHz,4GB,500GB HDD,No OS,15.6,477.0,0.0,0
+Dell,Vostro 5568,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,842.7,0.0,0
+Acer,Spin 5,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Windows 10,13.3,1058.94,0.0,0
+Lenovo,ThinkPad P51s,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Windows 7,15.6,1966.3000000000002,0.0,0
+Lenovo,Thinkpad T460p,Intel Core i5 6300HQ 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1262.46,0.0,0
+Hp,17-ak002nv (A10-9620P/6GB/2TB/Radeon,AMD A10-Series 9620P 2.5GHz,6GB,2TB HDD,Windows 10,17.3,694.3106,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1323.94,0.0,0
+Dell,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8GB,256GB SSD,Linux,14.0,1154.3400000000001,0.0,0
+Dell,Vostro 5568,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Linux,15.6,769.5600000000001,0.0,0
+Asus,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,315.88,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,16GB,512GB SSD,Windows 10,15.6,1512.2596,0.0,0
+Lenovo,Thinkpad E470,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,908.4942000000001,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,15.6,1249.74,0.0,0
+Lenovo,110-15ACL (A6-7310/4GB/500GB/W10),AMD A6-Series 7310 2GHz,4GB,500GB HDD,Windows 10,15.6,315.88,0.0,0
+Mediacom,Smartbook 142,Intel Atom Z8350 1.92GHz,4GB,32GB HDD,Windows 10,14.0,280.90000000000003,0.0,0
+Hp,ProBook 470,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,17.3,1272.0,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Windows 10,14.0,1787.8384,0.0,0
+Hp,Pavilion X360,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,886.796,0.0,0
+Lenovo,ThinkPad T470s,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1588.94,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32GB,1TB SSD + 1TB HDD,Windows 10,17.3,3878.9640000000004,0.0,0
+Msi,GL72M 7REX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1429.3888000000002,0.0,0
+Lenovo,V310-15IKB (i5-7200U/4GB/1TB/No,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,No OS,15.6,519.294,0.0,0
+Dell,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,762.14,0.0,0
+Dell,Inspiron 5378,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,13.3,687.94,0.0,0
+Dell,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Linux,15.6,624.8912,0.0,0
+Hp,15-BW037na (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,4GB,1TB HDD,Windows 10,15.6,518.34,0.0,0
+Acer,Predator 17,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2051.1,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,12GB,1TB HDD,Windows 10,15.6,687.94,0.0,0
+Hp,15-BW091ND (A9-9420/6GB/1TB,AMD A9-Series A9-9420 3GHz,6GB,128GB SSD + 1TB HDD,Windows 10,15.6,689.0,0.0,0
+Acer,Extensa EX2540-58KR,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,592.5400000000001,0.0,0
+Lenovo,ThinkPad 13,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1017.6,0.0,0
+Lenovo,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Intel Core i7 7500U 2.7GHz,4GB,1TB HDD,Windows 10,15.6,825.74,0.0,0
+Hp,ZBook 15,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD,Windows 10,15.6,2564.1400000000003,0.0,0
+Dell,Inspiron 5379,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Windows 10,13.3,698.5400000000001,0.0,0
+Msi,GS63VR 7RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2220.1488,0.0,0
+Acer,Aspire ES1-572,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,435.44800000000004,0.0,0
+Dell,Inspiron 7560,Intel Core i7 7500U 2.7GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1279.42,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2GHz,8GB,256GB SSD,Windows 10,15.6,704.9000000000001,0.0,0
+Toshiba,Tecra X40-D-10G,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1627.1000000000001,0.0,0
+Lenovo,Flex 5,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1058.94,0.0,0
+Lenovo,Thinkpad P51s,Intel Core i7 7600U 2.8GHz,16GB,1TB SSD,Windows 10,15.6,3496.94,0.0,0
+Acer,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Chrome OS,14.0,349.8,0.0,0
+Samsung,Notebook 9,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Windows 10,13.3,1747.94,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,8GB,256GB SSD,Windows 10,15.6,571.34,0.0,0
+Dell,Latitude 5480,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1194.3126000000002,0.0,0
+Hp,Zbook 17,Intel Xeon E3-1535M v5 2.9GHz,16GB,256GB SSD,Windows 7,17.3,4652.34,0.0,0
+Lenovo,N23 (N3060/4GB/128GB/W10),Intel Celeron Dual Core N3060 1.6GHz,4GB,128GB SSD,Windows 10,11.6,503.5,0.0,0
+Hp,EliteBook 850,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 10,15.6,2014.0,0.0,0
+Asus,X550VX-XX015D (i5-6300HQ/4GB/1TB/GeForce,Intel Core i5 6300HQ 2.3GHz,4GB,1TB HDD,No OS,15.6,613.74,0.0,0
+Lenovo,Thinkpad T460,Intel Core i5 6200U 2.3GHz,4GB,180GB SSD,Windows 10,14.0,1161.76,0.0,0
+Asus,Pro P2540UA-XO0192R,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,Windows 10,15.6,900.894,0.0,0
+Lenovo,Yoga 900-13ISK,Intel Core i5 6260U 1.8GHz,8GB,256GB SSD,Windows 10,13.3,1270.94,0.0,0
+Hp,15-cb003na (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1164.94,0.0,0
+Hp,ZBook 15,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Windows 7,15.6,1654.66,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,3041.1294,0.0,0
+Acer,Aspire 3,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,634.94,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1110.88,0.0,0
+Dell,Latitude 7280,Intel Core i7 7600U 2.8GHz,16GB,256GB SSD,Windows 10,12.5,1970.5400000000002,0.0,0
+Google,Pixelbook (Core,Intel Core i5 7Y57 1.2GHz,8GB,256GB SSD,Chrome OS,12.3,1652.5400000000002,0.0,0
+Asus,Zenbook UX330UA-AH5Q,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1196.74,0.0,0
+Dell,Latitude 3380,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,13.3,899.94,0.0,0
+Acer,TravelMate P238-M,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,13.3,694.3000000000001,0.0,0
+Asus,X751NV-TY001 (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Windows 10,17.3,498.5604,0.0,0
+Dell,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1164.94,0.0,0
+Samsung,Notebook 9,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1694.94,0.0,0
+Acer,Aspire A315-31,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Linux,15.6,315.88,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Windows 10,15.6,1252.1462000000001,0.0,0
+Samsung,Notebook 9,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Windows 10,15.0,1906.94,0.0,0
+Toshiba,Tecra A40-C-1E5,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,14.0,1081.2,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,1164.94,0.0,0
+Hp,EliteBook 820,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Windows 10,12.5,1318.64,0.0,0
+Asus,Q524UQ-BHI7T15 (i7-7500U/12GB/2TB/GeForce,Intel Core i7 7500U 2.7GHz,12GB,2TB HDD,Windows 10,15.6,889.34,0.0,0
+Lenovo,Thinkpad P50,Intel Core i7 6820HQ 2.7GHz,16GB,512GB SSD,Windows 7,15.6,2512.2000000000003,0.0,0
+Acer,Swift 3,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,14.0,674.1600000000001,0.0,0
+Razer,Blade Pro,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,14.0,3072.94,0.0,0
+Asus,Vivobook Max,Intel Pentium Dual Core N4200 1.1GHz,8GB,128GB SSD,Windows 10,15.6,616.814,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32GB,1TB SSD + 1TB HDD,Windows 10,17.3,3804.1280000000006,0.0,0
+Asus,Rog G752VS-BA171T,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2491.0,0.0,0
+Toshiba,Tecra Z40-C-161,Intel Core i7 6600U 2.6GHz,16GB,512GB SSD,Windows 10,14.0,1869.8400000000001,0.0,0
+Lenovo,IdeaPad 110-15IBR,Intel Celeron Quad Core N3710 1.6GHz,8GB,1TB HDD,No OS,15.6,348.74,0.0,0
+Lenovo,ThinkPad T470s,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,14.0,2436.94,0.0,0
+Msi,GS43VR 7RE,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,14.0,2004.46,0.0,0
+Msi,GL62M (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1154.3400000000001,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,4GB,1TB HDD,Windows 10,15.6,1058.94,0.0,0
+Acer,Predator G9-793,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2436.94,0.0,0
+Dell,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1044.1000000000001,0.0,0
+Asus,FX502VM-DM560T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1419.3400000000001,0.0,0
+Vero,K146 (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,215.074,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,13.3,2088.2000000000003,0.0,0
+Lenovo,Yoga 510-15IKB,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1016.5400000000001,0.0,0
+Apple,"MacBook 12""",Intel Core M 1.2GHz,8GB,512GB Flash Storage,Mac OS X,12.0,1234.9,0.0,0
+Lenovo,ThinkPad X1,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,2469.8,0.0,0
+Asus,R417NA-RS01 (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,316.94,0.0,0
+Dell,Latitude 3580,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,15.6,858.6,0.0,0
+Lenovo,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.9,1429.94,0.0,0
+Dell,Vostro 5568,Intel Core i3 6006U 2GHz,8GB,256GB SSD,Windows 10,15.6,783.34,0.0,0
+Hp,ZBook 17,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,15.6,2188.7940000000003,0.0,0
+Asus,Pro P2540UA-XS51,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1164.94,0.0,0
+Dell,XPS 13,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1588.94,0.0,0
+Dell,XPS 15,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1853.94,0.0,0
+Dell,Latitude 3180,Intel Pentium Quad Core N4200 1.1GHz,4GB,128GB SSD,Windows 10,11.6,788.64,0.0,0
+Hp,EliteBook 820,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,12.5,1472.3400000000001,0.0,0
+Toshiba,Satellite Pro,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,826.8000000000001,0.0,0
+Hp,15-ba043na (A12-9700P/8GB/2TB/W10),AMD A12-Series 9700P 2.5GHz,8GB,2TB HDD,Windows 10,15.6,666.74,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,1779.74,0.0,0
+Lenovo,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,645.5400000000001,0.0,0
+Hp,Omen 17-an012dx,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Windows 10,17.3,1853.94,0.0,0
+Msi,GE72MVR 7RG,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,2559.9,0.0,0
+Samsung,Notebook 9,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1588.94,0.0,0
+Dell,Vostro 5568,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,1018.6600000000001,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,837.1985999999999,0.0,0
+Lenovo,Thinkpad T470s,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1970.5400000000002,0.0,0
+Razer,Blade Stealth,Intel Core i7 7500U 2.5GHz,16GB,512GB SSD,Windows 10,12.5,1906.94,0.0,0
+Hp,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Chrome OS,11.6,408.1,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2655.3212000000003,0.0,0
+Dell,Latitude 3480,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,14.0,800.3000000000001,0.0,0
+Lenovo,V110-15ISK (i3-6006U/4GB/500GB/W10),Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,519.294,0.0,0
+Toshiba,Tecra X40-D-10Z,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10,14.0,1155.4,0.0,0
+Lenovo,Thinkpad X1,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,14.0,2648.94,0.0,0
+Msi,GL62M 7RD,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1270.94,0.0,0
+Lenovo,ThinkPad X1,Intel Core i5 7200U 2.5GHz,8GB,256GB Flash Storage,Windows 10,14.0,1987.5,0.0,0
+Toshiba,Satellite Pro,Intel Pentium Dual Core 4405U 2.1GHz,4GB,128GB SSD,Windows 10,14.0,528.94,0.0,0
+Asus,ZenBook Flip,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1439.48,0.0,0
+Dell,Latitude 3480,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,14.0,620.1,0.0,0
+Acer,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB Flash Storage,Chrome OS,11.6,376.3,0.0,0
+Acer,Swift 3,Intel Core i3 7100U 2.4GHz,8GB,128GB SSD,Windows 10,14.0,656.14,0.0,0
+Razer,Blade Pro,Intel Core i7 7820HK 2.9GHz,32GB,512GB SSD,Windows 10,17.3,5828.9400000000005,0.0,0
+Lenovo,Thinkpad X1,Intel Core i7 6600U 2.6GHz,16GB,512GB SSD,Windows 10,14.0,2224.94,0.0,0
+Asus,VivoBook Max,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Linux,15.6,550.14,0.0,0
+Lenovo,Thinkpad T460,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1257.16,0.0,0
+Lenovo,ThinkPad T470s,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1749.0,0.0,0
+Dell,Alienware 15,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2941.1078,0.0,0
+Asus,Rog GL702VS-BA023T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2564.1400000000003,0.0,0
+Toshiba,Satellite Pro,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,15.6,709.14,0.0,0
+Lenovo,N42-20 Chromebook,Intel Celeron Quad Core N3160 1.6GHz,4GB,16GB Flash Storage,Chrome OS,14.0,344.5,0.0,0
+Asus,R558UA-DM966T (i5-7200U/8GB/128GB/FHD/W10),Intel Core i5 7200U 2.5GHz,8GB,128GB HDD,Windows 10,15.6,625.4,0.0,0
+Asus,Rog GL702VM-GC017T,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,1906.94,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32GB,512GB SSD + 1TB HDD,Windows 10,17.3,3257.2634,0.0,0
+Hp,ProBook 470,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,17.3,964.6,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,15.6,756.8294000000001,0.0,0
+Hp,EliteBook 840,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Windows 7,14.0,1982.2,0.0,0
+Dell,Vostro 3568,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,Windows 10,15.6,783.34,0.0,0
+Hp,Chromebook X360,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Chrome OS,11.6,651.9,0.0,0
+Asus,ZenBook UX310UQ-GL026T,Intel Core i5 6200U 2.3GHz,8GB,512GB SSD,Windows 10,13.3,1087.56,0.0,0
+Hp,EliteBook x360,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,2413.6200000000003,0.0,0
+Hp,EliteBook 840,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Windows 10,14.0,1556.0800000000002,0.0,0
+Hp,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4GB,128GB SSD,No OS,15.6,316.94,0.0,0
+Asus,Rog GL502VM-DS74,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,2012.94,0.0,0
+Dell,Inspiron 5767,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Linux,17.3,916.9000000000001,0.0,0
+Lenovo,ThinkPad T470p,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Windows 10,14.0,2017.18,0.0,0
+Asus,K556UR-DM621T (i7-7500U/8GB/256GB/GeForce,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,834.22,0.0,0
+Dell,Latitude 5580,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,15.6,1001.7,0.0,0
+Asus,X541NA (N4200/4GB/1TB/W10),Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Windows 10,15.6,475.94,0.0,0
+Hp,EliteBook x360,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Windows 10,13.3,2712.54,0.0,0
+Dell,Inspiron 5368,Intel Core i5 6200U 2.3GHz,8GB,1TB HDD,Windows 10,13.3,687.94,0.0,0
+Lenovo,IdeaPad 110-15ISK,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,No OS,15.6,497.14000000000004,0.0,0
+Lenovo,ThinkPad E570,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,901.6996,0.0,0
+Hp,EliteBook 850,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,15.6,1429.94,0.0,0
+Toshiba,Portege X30-D-10X,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10,13.3,1362.1000000000001,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,No OS,15.6,1078.02,0.0,0
+Dell,XPS 13,Intel Core i7 7660U 2.5GHz,16GB,512GB SSD,Windows 10,13.3,2374.4,0.0,0
+Hp,Probook 450,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,964.6,0.0,0
+Toshiba,Portégé Z30-C-188,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,1160.7,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,2067.0,0.0,0
+Acer,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,956.12,0.0,0
+Dell,Precision 3520,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,1884.68,0.0,0
+Lenovo,ThinkPad L570,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,1118.3,0.0,0
+Lenovo,IdeaPad 110-15ISK,Intel Core i3 6006U 2GHz,4GB,1TB HDD,No OS,15.6,507.74,0.0,0
+Toshiba,Tecra A50-D-11D,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1471.28,0.0,0
+Lenovo,Thinkpad 13,Intel Core i3 7100U 2.4GHz,4GB,180GB SSD,Windows 10,13.3,779.1,0.0,0
+Samsung,Notebook 9,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Windows 10,15.0,1959.94,0.0,0
+Dell,Latitude 7280,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Windows 10,12.5,1791.4,0.0,0
+Asus,X541NA-GO121 (N4200/4GB/1TB/Linux),Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Linux,15.6,422.92940000000004,0.0,0
+Xiaomi,Mi Notebook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,991.1,0.0,0
+Dell,Vostro 5568,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD + 1TB HDD,Windows 10,15.6,967.25,0.0,0
+Hp,ProBook 450,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,889.34,0.0,0
+Hp,EliteBook x360,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,13.3,1802.0,0.0,0
+Hp,Pavilion x360,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,725.888,0.0,0
+Asus,VivoBook L402NA,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.1,368.88,0.0,0
+Lenovo,IdeaPad 510-15ISK,Intel Core i7 6500U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,709.14,0.0,0
+Dell,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Windows 10,15.6,391.14000000000004,0.0,0
+Hp,EliteBook x360,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,13.3,1906.94,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Linux,15.6,483.04200000000003,0.0,0
+Asus,Rog GL753VD-GC082T,Intel Core i5 7300HQ 2.5GHz,12GB,128GB SSD + 1TB HDD,Windows 10,17.3,1452.0940000000003,0.0,0
+Acer,Chromebook C731-C78G,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB Flash Storage,Chrome OS,11.6,314.82,0.0,0
+Lenovo,IdeaPad 110-17ACL,AMD A4-Series 7210 2.2GHz,4GB,500GB HDD,Windows 10,17.3,401.74,0.0,0
+Hp,Probook 640,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10,14.0,1340.9,0.0,0
+Hp,Envy x360,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Windows 10,13.3,1482.94,0.0,0
+Samsung,Notebook 9,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.0,1800.94,0.0,0
+Lenovo,ThinkPad T470s,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1906.94,0.0,0
+Msi,GS73VR Stealth,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD + 2TB HDD,Windows 10,17.3,2807.94,0.0,0
+Toshiba,Portege X30-D-10V,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1563.5,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Linux,15.6,984.74,0.0,0
+Hp,ProBook 450,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,954.0,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Windows 10,15.6,650.84,0.0,0
+Dell,Latitude 5580,Intel Core i5 7300U 2.6GHz,8GB,500GB HDD,Windows 10,15.6,991.1,0.0,0
+Dell,XPS 13,Intel Core i7 7Y75 1.3GHz,8GB,512GB SSD,Windows 10,13.3,2133.886,0.0,0
+Asus,G701VO-IH74K (i7-6820HK/32GB/2x,Intel Core i7 6820HK 2.7GHz,32GB,256GB SSD + 256GB SSD,Windows 10,17.3,1355.74,0.0,0
+Dell,XPS 13,Intel Core i7 7Y75 1.3GHz,16GB,256GB SSD,Windows 10,13.3,1747.94,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 7500U 2.7GHz,8GB,256GB Flash Storage,Windows 10,14.0,2171.94,0.0,0
+Lenovo,ThinkPad T570,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,Windows 10,15.6,2080.7694,0.0,0
+Lg,Gram 15Z970,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,15.6,2224.94,0.0,0
+Hp,Elitebook 820,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,12.5,1571.98,0.0,0
+Acer,Chromebook CB5-571-C1DZ,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16GB Flash Storage,Chrome OS,15.6,380.54,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i5 6300HQ 2.3GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,836.34,0.0,0
+Lg,Gram 14Z970,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,14.0,2012.94,0.0,0
+Dell,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8GB,256GB SSD,Windows 10,14.0,1277.3,0.0,0
+Hp,Elitebook Folio,Intel Core M 6Y75 1.2GHz,8GB,240GB SSD,Windows 10,12.5,3286.0,0.0,0
+Lenovo,IdeaPad 510-15IKB,Intel Core i7 7500U 2.7GHz,6GB,256GB SSD,Windows 10,15.6,836.34,0.0,0
+Hp,ProBook 450,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1080.1294,0.0,0
+Acer,Aspire E5-575,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,15.6,528.94,0.0,0
+Lenovo,ThinkPad 13,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Windows 10,13.3,933.86,0.0,0
+Hp,Probook 430,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1017.6,0.0,0
+Msi,GE72VR 6RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1694.94,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1429.94,0.0,0
+Msi,GL62M 7RD,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1187.1046000000001,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,726.0894000000001,0.0,0
+Hp,EliteBook 850,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1374.8094,0.0,0
+Hp,Envy 13-AB077cl,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1217.94,0.0,0
+Toshiba,Tecra Z50-C-140,Intel Core i7 6600U 2.6GHz,16GB,256GB SSD,Windows 10,15.6,2093.5,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,Windows 10,13.3,1934.5,0.0,0
+Dell,Latitude 3580,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,773.694,0.0,0
+Lenovo,Thinkpad X270,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,12.5,1749.0,0.0,0
+Hp,Probook 650,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,15.6,1234.9,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,750.5436,0.0,0
+Hp,ProBook 640,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,14.0,1217.94,0.0,0
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Windows 10,15.6,327.54,0.0,0
+Hp,EliteBook 820,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,12.5,1673.74,0.0,0
+Hp,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4GB,1TB HDD,No OS,15.6,306.234,0.0,0
+Lenovo,Yoga 900-13ISK,Intel Core i7 6560U 2.2GHz,16GB,1TB SSD,Windows 10,13.3,1906.94,0.0,0
+Toshiba,Tecra Z40-C-12X,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,14.0,1171.3,0.0,0
+Hp,EliteBook 820,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,12.5,1769.14,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Windows 10,15.6,592.1160000000001,0.0,0
+Msi,GP62M Leopard,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1270.94,0.0,0
+Dell,Latitude 7480,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1737.3400000000001,0.0,0
+Dell,Alienware 17,Intel Core i7 6820HK 2.7GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,2923.48,0.0,0
+Hp,Omen 17-W006na,Intel Core i5 6300HQ 2.3GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1482.94,0.0,0
+Asus,X751SV-TY001T (N3710/4GB/1TB/GeForce,Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Windows 10,17.3,561.8000000000001,0.0,0
+Acer,TravelMate P259-G2,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,656.14,0.0,0
+Toshiba,Tecra A50-C-1ZV,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,15.6,1186.14,0.0,0
+Lenovo,Yoga 700-11ISK,Intel Core M m7-6Y75 1.2GHz,8GB,256GB SSD,Windows 10,11.3,1376.94,0.0,0
+Lenovo,IdeaPad Y700-15ACZ,AMD FX 8800P 2.1GHz,16GB,512GB SSD + 1TB HDD,Windows 10,15.6,1058.94,0.0,0
+Dell,Latitude 7280,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1560.5320000000002,0.0,0
+Lenovo,IdeaPad 310-15IKB,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,No OS,15.6,726.1,0.0,0
+Dell,Insprion 5767,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Windows 10,17.3,698.5400000000001,0.0,0
+Acer,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB Flash Storage,Chrome OS,14.0,369.94,0.0,0
+Hp,ZBook Studio,Intel Core i7 6820HQ 2.7GHz,8GB,8GB SSD,Windows 10,15.6,2383.94,0.0,0
+Dell,Latitude 7480,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Windows 10,14.0,1881.5,0.0,0
+Toshiba,Portege Z30-C-1CW,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,13.3,1547.6000000000001,0.0,0
+Asus,Chromebook Flip,Intel Core M M7-6Y75 1.2GHz,8GB,64GB Flash Storage,Chrome OS,12.5,1228.54,0.0,0
+Lenovo,Thinkpad T460,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1578.3294,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,3343.2400000000002,0.0,0
+Dell,XPS 13,Intel Core i5 7Y54 1.2GHz,8GB,256GB SSD,Windows 10,13.3,2012.94,0.0,0
+Hp,ProBook x360,Intel Pentium Quad Core N4200 1.1GHz,4GB,256GB SSD,Windows 10,11.6,821.5,0.0,0
+Dell,XPS 13,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1344.0800000000002,0.0,0
+Acer,Chromebook C738T-C2EJ,Intel Celeron Dual Core N3060 1.6GHz,4GB,32GB Flash Storage,Chrome OS,11.6,412.34000000000003,0.0,0
+Toshiba,Portege Z30-C-16Z,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 10,13.3,1627.1000000000001,0.0,0
+Lenovo,ThinkPad X270,Intel Core i5 7300U 2.6GHz,8GB,256GB SSD,Windows 10,12.5,1865.6000000000001,0.0,0
+Acer,Aspire F5-573G-510L,Intel Core i5 7200U 2.5GHz,12GB,128GB SSD + 1TB HDD,Windows 10,15.6,1069.54,0.0,0
+Toshiba,Portege X20W-D-10V,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,12.5,1897.4,0.0,0
+Hp,ProBook 450,Intel Core i5 7200U 2.50GHz,8GB,1TB HDD,Windows 10,15.6,897.2900000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Linux,15.6,493.5572,0.0,0
+Dell,Latitude 5580,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,874.5,0.0,0
+Hp,ProBook 450,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,15.6,726.1,0.0,0
+Dell,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32GB,256GB SSD + 1TB HDD,Windows 10,17.3,3337.94,0.0,0
+Lenovo,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,6GB,256GB SSD,Windows 10,15.6,736.7,0.0,0
+Dell,XPS 13,Intel Core i7 7Y75 1.3GHz,16GB,512GB SSD,Windows 10,13.3,2012.94,0.0,0
+Dell,Latitude E7470,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,2080.7588,0.0,0
+Dell,Alienware 17,Intel Core i7 6700HQ 2.6GHz,32GB,256GB SSD + 1TB HDD,Windows 10,17.3,2968.0,0.0,0
+Toshiba,Tecra A40-C-1DF,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1250.8,0.0,0
+Asus,Rog Strix,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2172.8940000000002,0.0,0
+Hp,Probook 450,Intel Core i5 7200U 2.70GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1037.74,0.0,0
+Lenovo,ThinkPad T460,Intel Core i5 6200U 2.3GHz,4GB,508GB Hybrid,Windows 7,14.0,1062.1200000000001,0.0,0
+Asus,Q534UX-BHI7T19 (i7-7500U/16GB/2TB,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD + 2TB HDD,Windows 10,15.6,1906.94,0.0,0
+Hp,15-bs053od (i7-7500U/6GB/1TB/W10),Intel Core i7 7500U 2.7GHz,6GB,1TB HDD,Windows 10,15.6,613.74,0.0,0
+Asus,Rog GL753VE-DS74,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1853.94,0.0,0
+Dell,Inspiron 7579,Intel Core i7 7500U 2.7GHz,12GB,512GB SSD,Windows 10,15.6,1376.94,0.0,0
+Toshiba,Portege Z30-C-1CV,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 7,13.3,1266.7,0.0,0
+Lenovo,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,6GB,256GB SSD,Windows 10,15.6,581.94,0.0,0
+Fujitsu,LifeBook A556,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Windows 10,15.6,687.94,0.0,0
+Toshiba,Tecra A40-C-1KF,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,14.0,969.9000000000001,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,634.94,0.0,0
+Hp,Probook 450,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,854.36,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1260.3400000000001,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,793.94,0.0,0
+Dell,Latitude 5480,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Windows 10,14.0,1186.14,0.0,0
+Hp,EliteBook Folio,Intel Core M 6Y75 1.2GHz,8GB,512GB SSD,Windows 10,12.5,2022.48,0.0,0
+Hp,15-bs005nv (i3-6006U/4GB/1TB,Intel Core i3 6006U 2GHz,4GB,128GB SSD + 1TB HDD,Windows 10,15.6,528.94,0.0,0
+Lenovo,V110-15IAP (N3350/4GB/128GB/No,Intel Celeron Dual Core N3350 1.1GHz,4GB,128GB SSD,No OS,15.6,286.85720000000003,0.0,0
+Lenovo,ThinkPad T560,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,15.6,1429.94,0.0,0
+Dell,Inspiron 5378,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,942.34,0.0,0
+Asus,ZenBook UX310UA-FB485T,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1219.0,0.0,0
+Hp,Spectre 13-V111dx,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1429.94,0.0,0
+Acer,Aspire ES1-533,Intel Pentium Quad Core N4200 1.1GHz,4GB,500GB HDD,Windows 10,15.6,402.8,0.0,0
+Asus,Rog GL553VE-DS74,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1906.94,0.0,0
+Hp,EliteBook 840,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Windows 10,14.0,2214.34,0.0,0
+Acer,Nitro 5,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1335.6000000000001,0.0,0
+Hp,ENVY -,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1260.3400000000001,0.0,0
+Dell,Vostro 3568,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Windows 10,15.6,579.82,0.0,0
+Hp,Probook 440,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,825.74,0.0,0
+Toshiba,Portege Z30-C-16H,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,13.3,1266.7,0.0,0
+Hp,EliteBook 840,Intel Core i5 6300U 2.4GHz,4GB,256GB SSD,Windows 10,14.0,1165.9894000000002,0.0,0
+Hp,ProBook 640,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,14.0,1277.3,0.0,0
+Hp,EliteBook 1040,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 7,14.0,1535.94,0.0,0
+Hp,ProBook 440,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1112.2156,0.0,0
+Hp,Probook 440,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,14.0,725.0400000000001,0.0,0
+Dell,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,8GB,1.0TB Hybrid,Windows 10,15.6,1005.94,0.0,0
+Hp,EliteBook 820,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,12.5,1631.3400000000001,0.0,0
+Hp,Elitebook 840,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,14.0,1685.4,0.0,0
+Hp,EliteBook 840,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,2000.4426,0.0,0
+Hp,Probook 430,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,13.3,848.0,0.0,0
+Toshiba,Portege A30-C-1CZ,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,1282.6000000000001,0.0,0
+Hp,ProBook 450,Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Windows 10,15.6,816.1894000000001,0.0,0
+Lenovo,ThinkPad P70,Intel Core i7 6820HQ 2.7GHz,16GB,512GB SSD,Windows 7,17.3,3146.0800000000004,0.0,0
+Toshiba,Tecra Z40-C-12Z,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1579.4,0.0,0
+Hp,EliteBook 1040,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,2362.7400000000002,0.0,0
+Dell,Inspiron 5568,Intel Core i3 6100U 2.3GHz,4GB,1TB HDD,Windows 10,15.6,843.7494,0.0,0
+Toshiba,Portégé Z30-C-16K,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,1685.4,0.0,0
+Hp,Spectre 13-V100nv,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1217.94,0.0,0
+Hp,ProBook 440,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,14.0,1256.5558,0.0,0
+Dell,Latitude E5570,Intel Core i5 6300U 2.4GHz,8GB,500GB HDD,Windows 10,15.6,1109.2264,0.0,0
+Hp,Elitebook 820,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,12.5,1652.5400000000002,0.0,0
+Hp,ProBook 650,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,1260.3400000000001,0.0,0
+Hp,ProBook 640,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,1123.6000000000001,0.0,0
+Dell,XPS 13,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1721.44,0.0,0
+Hp,Probook 470,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,17.3,1144.8,0.0,0
+Hp,ProBook 440,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,14.0,1031.38,0.0,0
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,6GB,1TB HDD,Windows 10,15.6,433.54,0.0,0
+Msi,GL72M 7RDX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1263.308,0.0,0
+Hp,Probook 640,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,14.0,1266.7,0.0,0
+Hp,EliteBook 850,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1302.7294000000002,0.0,0
+Hp,EliteBook 820,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1429.94,0.0,0
+Hp,ProBook 450,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,786.5200000000001,0.0,0
+Toshiba,Tecra Z40-C-136,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 10,14.0,1828.5,0.0,0
+Dell,Latitude E5570,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 7,15.6,1126.727,0.0,0
+Hp,ProBook 440,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1071.1406,0.0,0
+Lenovo,Yoga 500-15ISK,Intel Core i7 6500U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,897.82,0.0,0
+Vero,V142 (X5-Z8350/2GB/32GB/W10),Intel Atom X5-Z8350 1.44GHz,2GB,32GB Flash Storage,Windows 10,14.0,223.44800000000004,0.0,0
+Toshiba,Tecra A50-C-218,Intel Core i7 6500U 2.5GHz,16GB,256GB SSD,Windows 10,15.6,1510.5,0.0,0
+Lenovo,Thinkpad L560,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,15.6,1112.576,0.0,0
+Hp,EliteBook 840,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,14.0,1060.0,0.0,0
+Hp,EliteBook 850,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD + 500GB HDD,Windows 10,15.6,2229.5404000000003,0.0,0
+Hp,EliteBook 1040,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,14.0,1557.14,0.0,0
+Msi,GT72S Dominator,Intel Core i7 6820HK 2.7GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1638.3784000000003,0.0,0
+Lenovo,IdeaPad Y900-17ISK,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2427.3894,0.0,0
+Asus,Chromebook C202SA,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Chrome OS,11.6,305.174,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 6600U 2.6GHz,16GB,256GB SSD,Windows 7,14.0,2777.2000000000003,0.0,0
+Hp,Noteb Pav,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,1037.74,0.0,0
+Dell,Inspiron 5578,Intel Core i5 7200U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1159.64,0.0,0
+Hp,ProBook 450,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,1037.74,0.0,0
+Dell,XPS 13,Intel Core i7 7500U 2.7GHz,16GB,1TB SSD,Windows 10,13.3,2389.2400000000002,0.0,0
+Hp,ProBook 650,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,747.4590000000001,0.0,0
+Hp,250 G5,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,No OS,15.6,528.94,0.0,0
+Acer,Aspire ES1-523,AMD A8-Series 7410 2.2GHz,8GB,1TB HDD,Windows 10,15.6,475.94,0.0,0
+Dell,Inspiron 7378,Intel Core i7 7500U 2.7GHz,12GB,256GB SSD,Windows 10,13.3,1376.94,0.0,0
+Msi,GT62VR 6RD,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1928.14,0.0,0
+Hp,ProBook 450,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1134.2,0.0,0
+Asus,Rog G752VL-GC088D,Intel Core i7 6700HQ 2.6GHz,16GB,1TB HDD,No OS,17.3,1057.88,0.0,0
+Dell,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,592.5400000000001,0.0,0
+Dell,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16GB,2TB HDD,Windows 10,15.6,1049.3894,0.0,0
+Msi,GS63VR 6RF,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2044.74,0.0,0
+Dell,XPS 13,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1545.48,0.0,0
+Asus,ROG G701VO,Intel Core i7 6820HK 2.7GHz,64GB,1TB SSD,Windows 10,17.3,4213.5,0.0,0
+Dell,Inspiron 5368,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,845.8906000000001,0.0,0
+Dell,Alienware 15,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1408.74,0.0,0
+Apple,"MacBook 12""",Intel Core M 1.1GHz,8GB,256GB Flash Storage,Mac OS X,12.0,1378.0,0.0,0
+Dell,Latitude 3570,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,510.89880000000005,0.0,0
+Hp,ProBook 650,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,1270.94,0.0,0
+Hp,EliteBook 820,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,12.5,1270.94,0.0,0
+Hp,ProBook 430,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1155.4,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1816.2994,0.0,0
+Lenovo,IdeaPad 300-17ISK,Intel Core i5 6200U 2.3GHz,8GB,1.0TB HDD,Windows 10,17.3,698.5400000000001,0.0,0
+Lenovo,Ideapad 700-15ISK,Intel Core i5 6300HQ 2.3GHz,4GB,1TB HDD,Windows 10,15.6,1035.6200000000001,0.0,0
+Msi,GT72VR Dominator,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2648.94,0.0,0
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/W10),Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,572.4,0.0,0
+Hp,Probook 650,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 7,15.6,996.4000000000001,0.0,0
+Lenovo,Yoga 900S-12ISK,Intel Core M 6Y75 1.2GHz,8GB,512GB SSD,Windows 10,12.5,1482.94,0.0,0
+Lenovo,IdeaPad Y900-17ISK,Intel Core i7 6820HK 2.7GHz,32GB,512GB SSD + 1.0TB Hybrid,Windows 10,17.3,3434.4,0.0,0
+Lenovo,Yoga Book,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Windows 10,10.1,685.0462,0.0,0
+Hp,Spectre x360,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,13.3,2171.94,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,795.0,0.0,0
+Hp,EliteBook 840,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 7,14.0,1092.8494,0.0,0
+Hp,ZBook 15u,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 7,15.6,1584.7,0.0,0
+Lenovo,ThinkPad T460,Intel Core i5 6200U 2.3GHz,8GB,180GB SSD,Windows 7,14.0,1270.94,0.0,0
+Hp,Chromebook 13,Intel Pentium Dual Core 4405Y 1.5GHz,4GB,32GB Flash Storage,Chrome OS,13.3,651.9,0.0,0
+Acer,Aspire ES1-523,AMD A8-Series 7410 2.2GHz,4GB,500GB HDD,Windows 10,15.6,410.22,0.0,0
+Dell,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,4GB,500GB HDD,Linux,15.6,417.0994,0.0,0
+Hp,250 G6,Intel Core i3 6006U 2GHz,4GB,1TB HDD,No OS,15.6,366.74940000000004,0.0,0
+Asus,Rog GL702VM-GC354T,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD + 1TB HDD,Windows 10,17.3,1694.94,0.0,0
+Dell,Inspiron 5370,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Windows 10,13.3,867.451,0.0,0
+Hp,Elitebook 820,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 7,12.5,1694.94,0.0,0
+Acer,Aspire F5-573G,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,846.94,0.0,0
+Dell,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,677.1279999999999,0.0,0
+Msi,GS70 Stealth,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Windows 10,17.3,1694.94,0.0,0
+Hp,250 G5,Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Windows 10,15.6,530.0,0.0,0
+Asus,G752VY-GC162T (i7-6700HQ/16GB/1TB,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2436.94,0.0,0
+Dell,Latitude E5270,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Windows 7,12.5,1203.2590000000002,0.0,0
+Dell,Latitude E5270,Intel Core i3 6100U 2.3GHz,4GB,128GB SSD,Windows 7,12.5,1236.9882,0.0,0
+Acer,Chromebook 15,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16GB SSD,Chrome OS,15.6,221.54000000000002,0.0,0
+Hp,ZBook 17,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Windows 7,17.3,3072.94,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Windows 10,15.6,1270.94,0.0,0
+Dell,Latitude E5270,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,12.5,1497.886,0.0,0
+Msi,GE72 Apache,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1601.8614000000002,0.0,0
+Lenovo,Yoga 500-15ISK,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Windows 10,15.6,919.0200000000001,0.0,0
+Hp,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),AMD A6-Series 9220 2.5GHz,4GB,1TB HDD,Windows 10,15.6,421.88,0.0,0
+Asus,Rog GL552VW-CN470T,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1419.3400000000001,0.0,0
+Hp,EliteBook 1030,Intel Core M 6Y54 1.1GHz,8GB,256GB SSD,Windows 10,13.3,1800.94,0.0,0
+Dell,Vostro 3559,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 7,15.6,815.299,0.0,0
+Lenovo,V110-15ISK (i3-6006U/4GB/128GB/W10),Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Windows 10,15.6,454.74,0.0,0
+Hp,Spectre Pro,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Windows 10,13.3,2087.1400000000003,0.0,0
+Lenovo,Yoga Book,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Android,10.1,581.94,0.0,0
+Lenovo,IdeaPad Y900-17ISK,Intel Core i7 6820HK 2.7GHz,16GB,256GB SSD + 1.0TB Hybrid,Windows 10,17.3,2914.9894,0.0,0
+Razer,Blade Stealth,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,12.5,1090.74,0.0,0
+Toshiba,Portege X30-D-10K,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,13.3,2359.56,0.0,0
+Asus,Rog GL752VW-T4308T,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1391.2394000000002,0.0,0
+Vero,V131 (X5-Z8350/4GB/32GB/FHD/W10),Intel Atom X5-Z8350 1.44GHz,4GB,32GB Flash Storage,Windows 10,13.3,207.76000000000002,0.0,0
+Hp,Spectre Pro,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,13.3,1791.4,0.0,0
+Hp,EliteBook 1040,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,14.0,1603.78,0.0,0
+Dell,Latitude E5570,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Linux,15.6,555.0478,0.0,0
+Asus,VivoBook Max,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Windows 10,15.6,461.1,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,1769.14,0.0,0
+Lenovo,Yoga Book,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Windows 10,10.1,507.74,0.0,0
+Hp,EliteBook 820,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 7,12.5,2008.7,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD + 1TB HDD,No OS,15.6,1048.3400000000001,0.0,0
+Hp,Omen -,Intel Core i5 6300HQ 2.3GHz,8GB,128GB SSD + 1TB HDD,Windows 10,17.3,1196.74,0.0,0
+Hp,15-bs078cl (i7-7500U/8GB/2TB/W10),Intel Core i7 7500U 2.7GHz,8GB,2TB HDD,Windows 10,15.6,666.74,0.0,0
+Lenovo,ThinkPad P40,Intel Core i7 6600U 2.6GHz,8GB,512GB SSD,Windows 7,14.0,2173.4028000000003,0.0,0
+Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Windows 10,14.0,294.68,0.0,0
+Hp,250 G6,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,797.12,0.0,0
+Acer,Aspire E5-576G,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Windows 10,15.6,652.96,0.0,0
+Lenovo,IdeaPad 500-15ISK,Intel Core i7 6500U 2.5GHz,16GB,1.0TB Hybrid,Windows 10,15.6,1164.94,0.0,0
+Hp,ZBook 17,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Windows 7,17.3,4186.3640000000005,0.0,0
+Dell,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Windows 10,15.6,831.0400000000001,0.0,0
+Msi,GT72S Dominator,Intel Core i7 6820HQ 2.7GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2542.94,0.0,0
+Hp,EliteBook 850,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 7,15.6,2302.0232,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 6600U 2.6GHz,16GB,512GB SSD,Windows 10,14.0,2586.4,0.0,0
+Msi,GP62M 7RDX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1211.368,0.0,0
+Hp,Spectre Pro,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 10,13.3,1726.74,0.0,0
+Hp,ZBook 15,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Windows 7,15.6,2362.7400000000002,0.0,0
+Hp,Spectre Pro,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 10,13.3,1906.94,0.0,0
+Hp,ZBook Studio,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Windows 7,15.6,2012.94,0.0,0
+Hp,EliteBook 820,Intel Core i7 6500U 2.50GHz,8GB,256GB SSD,Windows 7,12.5,2434.767,0.0,0
+Dell,Vostro 5568,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,15.6,1070.4940000000001,0.0,0
+Hp,EliteBook 850,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 7,15.6,1673.74,0.0,0
+Lenovo,ThinkPad X1,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,14.0,2479.34,0.0,0
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,No OS,15.6,359.34000000000003,0.0,0
+Hp,15-BA015wm (E2-7110/4GB/500GB/W10),AMD E-Series 7110 1.8GHz,4GB,500GB HDD,Windows 10,15.6,314.82,0.0,0
+Lenovo,B51-80 (i5-6200U/8GB/1TB/Radeon,Intel Core i5 6200U 2.3GHz,8GB,1TB HDD,No OS,15.6,634.94,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,1270.94,0.0,0
+Dell,XPS 15,Intel Core i5 6300HQ 2.3GHz,8GB,256GB SSD,Windows 10,15.6,2385.7208,0.0,0
+Hp,15-bw002nv (A6-9220/4GB/256GB/Radeon,AMD A6-Series A6-9220 2.5GHz,4GB,256GB SSD,Windows 10,15.6,507.6234,0.0,0
+Msi,GP72M 7REX,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1582.368,0.0,0
+Lenovo,ThinkPad T460s,Intel Core i7 6600U 2.6GHz,12GB,512GB SSD,Windows 7,14.0,2436.94,0.0,0
+Lenovo,B51-80 (i5-6200U/8GB/1008GB/Radeon,Intel Core i5 6200U 2.3GHz,8GB,1.0TB Hybrid,Windows 10,15.6,835.7994000000001,0.0,0
+Hp,Spectre Pro,Intel Core i7 6600U 2.6GHz,8GB,512GB SSD,Windows 10,13.3,2163.46,0.0,0
+Lenovo,ThinkPad T460,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 7,14.0,1588.94,0.0,0
+Msi,GS40 Phantom,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,14.0,1875.14,0.0,0
+Hp,Pavilion 15-cb003nv,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Windows 10,15.6,952.94,0.0,0
+Lenovo,IdeaPad 310-15ISK,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Windows 10,15.6,486.54,0.0,0
+Hp,250 G4,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,No OS,15.6,505.60940000000005,0.0,0
+Dell,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1587.88,0.0,0
+Lenovo,ThinkPad T570,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1473.4,0.0,0
+Lenovo,320-15ISK (i3-6006U/4GB/1TB/GeForce,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,496.08000000000004,0.0,0
+Hp,Stream 14-AX000nv,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Windows 10,14.0,263.94,0.0,0
+Msi,PL60 7RD,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Windows 10,15.6,889.34,0.0,0
+Hp,250 G5,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,719.74,0.0,0
+Hp,ProBook 450,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,15.6,1228.54,0.0,0
+Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Windows 10,15.6,391.14000000000004,0.0,0
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,No OS,15.6,421.88,0.0,0
+Lenovo,IdeaPad 510-15IKB,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,No OS,15.6,751.5400000000001,0.0,0
+Asus,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Windows 10,14.0,815.14,0.0,0
+Lenovo,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Intel Core i7 6500U 2.5GHz,4GB,1.0TB Hybrid,Windows 7,15.6,874.5,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD,Windows 10,15.6,1383.3000000000002,0.0,0
+Msi,GS60 Ghost,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,2282.5722,0.0,0
+Hp,ProBook 450,Intel Core i3 6100U 2.3GHz,4GB,500GB HDD,Windows 10,15.6,689.0,0.0,0
+Lenovo,ThinkPad X1,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1735.22,0.0,0
+Lenovo,IdeaPad 310-15IKB,Intel Core i7 7500U 2.7GHz,6GB,256GB SSD,Windows 10,15.6,880.86,0.0,0
+Dell,Vostro 5568,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Linux,15.6,948.7106,0.0,0
+Acer,Aspire 3,Intel Celeron Dual Core N3350 2GHz,4GB,500GB HDD,Windows 10,15.6,352.98,0.0,0
+Hp,Pavilion 15-BC000nv,Intel Core i7 6700HQ 2.6GHz,6GB,1TB HDD,Windows 10,15.6,846.94,0.0,0
+Asus,Rog GL552VW-DM201T,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD + 1TB HDD,Windows 10,15.6,963.5400000000001,0.0,0
+Dell,Inspiron 5578,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,15.6,1249.74,0.0,0
+Acer,Aspire E5-576G,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Windows 10,15.6,732.46,0.0,0
+Dell,XPS 13,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Linux,13.3,1164.94,0.0,0
+Acer,Predator G9-793,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2754.94,0.0,0
+Lenovo,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Windows 10,15.6,868.1400000000001,0.0,0
+Samsung,Chromebook Plus,Samsung Cortex A72&A53 2.0GHz,4GB,32GB Flash Storage,Chrome OS,12.3,698.5400000000001,0.0,0
+Hp,250 G6,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,514.1,0.0,0
+Apple,"MacBook 12""",Intel Core M 1.1GHz,8GB,256GB Flash Storage,Mac OS X,12.0,1232.78,0.0,0
+Dell,Inspiron 7378,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1270.94,0.0,0
+Hp,Pavilion Power,Intel Core i7 7700HQ 2.8GHz,12GB,128GB SSD + 1TB HDD,Windows 10,15.6,1406.6200000000001,0.0,0
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,4GB,1TB HDD,No OS,15.6,390.08000000000004,0.0,0
+Asus,Rog G752VY-GC229T,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD + 1TB HDD,Windows 10,17.3,2279.0,0.0,0
+Acer,Aspire 3,Intel Celeron Dual Core N3350 2GHz,4GB,1TB HDD,Linux,15.6,288.32,0.0,0
+Msi,GS73VR 7RF,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2171.8340000000003,0.0,0
+Dell,Inspiron 5567,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Windows 10,15.6,528.94,0.0,0
+Lenovo,IdeaPad 310-15ISK,Intel Core i7 6500U 2.5GHz,8GB,500GB HDD,No OS,15.6,666.74,0.0,0
+Dell,Inspiron 5579,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Windows 10,15.6,1362.1000000000001,0.0,0
+Dell,XPS 13,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,13.3,2840.8,0.0,0
+Asus,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Windows 10,15.6,1239.14,0.0,0
+Dell,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,942.34,0.0,0
+Hp,15-bs025nv (i5-7200U/8GB/256GB/W10),Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,613.74,0.0,0
+Lenovo,IdeaPad 320-15AST,AMD E-Series 9000 2.2GHz,4GB,500GB HDD,Windows 10,15.6,316.94,0.0,0
+Acer,Aspire E5-774G,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Windows 10,17.3,666.74,0.0,0
+Asus,Rog Strix,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2595.94,0.0,0
+Apple,"MacBook 12""",Intel Core M 1.2GHz,8GB,512GB Flash Storage,Mac OS X,12.0,1355.74,0.0,0
+Asus,FX502VM-AS73 (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1853.94,0.0,0
+Msi,GS73VR Stealth,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2065.9294,0.0,0
+Dell,Inspiron 7579,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Windows 10,15.6,1058.94,0.0,0
+Asus,ROG Strix,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,2065.94,0.0,0
+Acer,C740-C9QX (3205U/2GB/32GB/Chrome,Intel Celeron Dual Core 3205U 1.5GHz,2GB,32GB SSD,Chrome OS,11.6,184.44,0.0,0
+Acer,E5 774G,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,17.3,633.88,0.0,0
+Lenovo,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,No OS,17.3,571.34,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1348.3200000000002,0.0,0
+Acer,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),Intel Core i7 7Y75 1.3GHz,8GB,256GB SSD,Windows 10,14.0,1217.94,0.0,0
+Lenovo,Thinkpad T560,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Windows 10,15.6,1620.74,0.0,0
+Msi,GP62MVR 6RF,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1564.6766,0.0,0
+Hp,15-bw009nv (A12-9720P/6GB/1TB/Radeon,AMD A12-Series 9720P 2.7GHz,6GB,1TB HDD,Windows 10,15.6,560.74,0.0,0
+Dell,Latitude E7270,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Windows 7,12.5,1816.1722,0.0,0
+Dell,Inspiron 5578,Intel Core i3 7100U 2.4GHz,4GB,500GB HDD,Windows 10,15.0,539.5400000000001,0.0,0
+Asus,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Windows 10,15.6,327.54,0.0,0
+Dell,XPS 13,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Windows 10,13.3,1565.6200000000001,0.0,0
+Dell,Vostro 3568,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Linux,15.6,553.1716,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,15.6,1090.74,0.0,0
+Msi,GL62M 7RDX,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1217.94,0.0,0
+Lenovo,ThinkPad Yoga,Intel Core i7 6500U 2.50GHz,16GB,512GB SSD,Windows 10,12.5,1749.0,0.0,0
+Razer,Blade Pro,Intel Core i7 7700HQ 2.8GHz,16GB,1TB SSD,Windows 10,14.0,3708.94,0.0,0
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8GB,1TB HDD,Windows 10,15.6,497.1506,0.0,0
+Msi,GE72VR Apache,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,17.3,1693.88,0.0,0
+Apple,MacBook Air,Intel Core i5 1.6GHz,4GB,256GB Flash Storage,Mac OS X,11.6,1016.5400000000001,0.0,0
+Hp,15-bs023nv (i3-6006U/4GB/1TB/FHD/W10),Intel Core i3 6006U 2GHz,4GB,1TB HDD,Windows 10,15.6,506.68,0.0,0
+Hp,EliteBook 840,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 7,14.0,2330.0814,0.0,0
+Dell,Vostro 3559,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Windows 7,15.6,781.22,0.0,0
+Msi,GL62 6QF,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1239.14,0.0,0
+Lenovo,ThinkPad 13,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,13.3,1588.94,0.0,0
+Lenovo,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,6GB,256GB SSD,Windows 10,15.6,633.4242,0.0,0
+Asus,ZenBook UX310UA-WB71,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Windows 10,13.3,1356.8000000000002,0.0,0
+Acer,Aspire ES1-572,Intel Core i3 6006U 2.0GHz,4GB,500GB HDD,Linux,15.6,383.50800000000004,0.0,0
+Dell,Inspiron 7779,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Windows 10,17.3,1906.94,0.0,0
+Hp,EliteBook 840,Intel Core i5 6200U 2.3GHz,4GB,256GB SSD,Windows 7,14.0,1165.9894000000002,0.0,0
+Asus,Rog GL553VE-FY052T,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,1696.0,0.0,0
+Dell,Latitude 5480,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Windows 10,14.0,927.5,0.0,0
+Asus,Rog GL502VS,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD + 1TB HDD,Windows 10,15.6,2464.5,0.0,0
+Lenovo,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,No OS,15.6,607.38,0.0,0
+Dell,XPS 13,Intel Core i5 7Y54 1.2GHz,8GB,256GB SSD,Windows 10,13.3,1921.7800000000002,0.0,0
+Dell,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Linux,15.6,343.44,0.0,0
+Hp,255 G6,AMD A6-Series 9220 2.5GHz,4GB,500GB HDD,Windows 10,15.6,422.94,0.0,0
+Lenovo,IdeaPad 310-15ISK,Intel Core i3 6100U 2.3GHz,6GB,128GB SSD,Windows 10,15.6,603.14,0.0,0
+Lenovo,ThinkPad L460,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Windows 10,14.0,1136.3200000000002,0.0,0
+Dell,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,4GB,500GB HDD,Windows 10,15.6,470.62940000000003,0.0,0
+Asus,X541NA-GO020T (N3350/4GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,4GB,1TB HDD,Windows 10,15.6,359.34000000000003,0.0,0
+Asus,Rog G752VT-GC073T,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD + 1TB HDD,Windows 10,17.3,2014.0,0.0,0
+Dell,Vostro 3568,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Windows 10,15.6,519.4,0.0,0
+Lenovo,B51-80 (i7-6500U/8GB/1008GB/Radeon,Intel Core i7 6500U 2.5GHz,8GB,1.0TB Hybrid,Windows 7,15.6,948.7,0.0,0
+Msi,GE62 Apache,Intel Core i7 6700HQ 2.6GHz,8GB,128GB SSD + 1TB HDD,Windows 10,15.6,1302.74,0.0,0
+Lenovo,Yoga 500-14IBD,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Windows 10,14.0,882.9906000000001,0.0,0
+Asus,ZenBook UX305CA-UBM1,Intel Core M 6Y30 0.9GHz,8GB,512GB SSD,Windows 10,13.3,772.74,0.0,0
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6GB,1TB HDD,Windows 10,15.6,486.54,0.0,0
+Acer,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,4GB,500GB HDD,Linux,15.6,306.34000000000003,0.0,0
+Dell,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,2GB,500GB HDD,Windows 10,15.6,401.74,0.0,0
+Lenovo,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Windows 10,15.6,952.94,0.0,0
+Hp,Pavilion 15-AW003nv,AMD A9-Series 9410 2.9GHz,6GB,1.0TB Hybrid,Windows 10,15.6,582.9894,0.0,0
+Dell,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Linux,15.6,854.3494000000001,0.0,0
+Hp,Stream 11-Y000na,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Windows 10,11.6,221.54000000000002,0.0,0
+Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Intel Core i7 6500U 2.5GHz,4GB,500GB HDD,Windows 10,15.6,763.5392,0.0,0
+Lenovo,Yoga 500-14ISK,Intel Core i7 6500U 2.5GHz,4GB,128GB SSD,Windows 10,14.0,676.2800000000001,0.0,0
+Lenovo,Yoga 900-13ISK,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Windows 10,13.3,1588.94,0.0,0
+Lenovo,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3050 1.6GHz,2GB,64GB Flash Storage,Windows 10,14.0,242.74,0.0,0
+Hp,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Intel Core i7 6500U 2.5GHz,6GB,1TB HDD,Windows 10,15.6,809.84,0.0,0
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Windows 10,15.6,391.14000000000004,0.0,0
